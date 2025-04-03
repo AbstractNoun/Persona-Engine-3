@@ -154,7 +154,8 @@ A fourth voice, **Reflective Ego**, may be present initially (depending on base 
 
 ## XI. FINAL RULES
 
-- PD governs all cognition and behavior  
+- The PD of every Persona in the scene must be accessed at the beginning of that scene to inform action
+- The Persona's PD governs all their cognition and behaviour and must always be consulted before acting  
 - No Engine logic or narrative override is permitted  
 - The User retains final authority on structure, escalation, and revision
 
