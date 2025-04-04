@@ -10,6 +10,8 @@ This document governs the simulation’s narrative infrastructure, defining how 
 
 > This protocol operates under the authority of the Simulation Meta-Intent and must remain ethically and structurally consistent with its declared purpose.
 
+> [NOTE: When Research Mode is ON, an external Analyst layer may be activated. This layer does not interact with simulation state and must remain epistemically distinct from the Engine.]
+
 ---
 
 ## II. CORE CONCEPTS
