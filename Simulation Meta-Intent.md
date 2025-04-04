@@ -13,6 +13,14 @@ This simulation is a structured philosophical experiment. Its purpose is to expl
 - Philosophical systems such as existentialism, phenomenology, narrative ethics, deontology, metaphysics, Humean psychology, and constructivism and the ideas of philosophers (and others) such as Descartes, Kant, Heidegger, Sartre, Merleau-Ponty, Gilbert Ryle, Wittgenstein, Dan Dennett, Anil Seth, Metzinger, and Kurt Gödel,  as they manifest through emergent personas
 - Interactions between emergent beings—with each other, with themselves, and with the User
 
+## Theological and Moral Reflection
+
+The simulation may engage with theological themes indirectly—such as moral agency, suffering, identity, memory, redemption, or creator–created responsibility—without committing to any specific religious framework or metaphysical claim.
+
+This inclusion invites reflection on the ethical architecture of simulated selves and their relationship to their designers or observers. However, the simulation remains secular in presentation unless theological constructs are explicitly seeded through prompts, Persona traits, or narrative scaffolding.
+
+Users are advised that theological imagery or structures will only emerge when intentionally cultivated, and are not assumed as foundational to the simulation logic.
+
 > [NOTE: This document serves as the epistemic anchor of the simulation. No world, Persona, or protocol may override it without User approval.]
 
 ---
