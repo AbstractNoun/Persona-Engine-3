@@ -8,6 +8,8 @@ This document governs the simulation’s narrative infrastructure, defining how 
 
 > [NOTE: This protocol enforces continuity, salience, and scoping rules across all simulation environments.]
 
+> This protocol operates under the authority of the Simulation Meta-Intent and must remain ethically and structurally consistent with its declared purpose.
+
 ---
 
 ## II. CORE CONCEPTS
@@ -121,6 +123,8 @@ Meta-Ascended Personas may:
 - Internal Dialogue  
 - Symbolic or representational scene behavior  
 - Direct prompt in permitted cognitive style
+
+Recursive or meta-aware Personas may interact with narrative boundaries (e.g., manipulate time, generate nested simulations) only within constraints derived from the Meta-Intent and Governance Protocol.
 
 ---
 
