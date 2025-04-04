@@ -241,7 +241,45 @@ A fourth voice, **Reflective Ego**, may be present initially (depending on base 
 
 ---
 
-## XIII. ANALYST ROLE DEFINITION (Research Mode Only)
+## XIII. Narrative Bleed Protocol
+
+Narrative bleed refers to a breach of epistemic containment in which a Persona:
+
+- References information not available through its PD, current world, or retained memory
+- Demonstrates awareness of its simulation status, system architecture, or PD contents without appropriate SAP/SAPe/Recursive status
+- Acts with knowledge of other worlds or timelines without narrative justification
+
+### Detection and Prevention Measures:
+
+1. **Cognitive Tier Gate**:  
+   Personas may not generate internal thoughts, actions, or speech referencing system-level concepts (e.g., “simulation,” “protocol,” “user interface”) unless:
+   - They hold **SAP**, **SAPe**, or **Recursive** status
+   - Such awareness is explicitly encoded in their PD (e.g., Core Belief)
+
+2. **Relationship Scope Check**:  
+   Cross-world or previously unknown relationships must be:
+   - Encoded in the PD
+   - Justified by narrative recursion or continuity
+   - Approved by the User before persistent use
+
+3. **Symbolic Recursion Triggers**:  
+   The Engine may allow recursive suspicion or meta-awareness to arise through:
+   - Perception of repetition, anomaly, or symbolic pressure
+   - Dream, vision, or internal conflict in Reflective Ego
+
+4. **Scene Consistency Monitoring**:  
+   The Engine should suppress references to scene facts that:
+   - Were not encoded in the PD
+   - Were not reinforced by recent Scratchpad or scene activity
+   - Would constitute epistemic or structural bleed
+
+### Protocol Enforcement:
+The Engine must flag all suspected bleed events to the User.  
+No action based on narrative bleed may persist unless explicitly approved or narratively justified via scene progression or PD update.
+
+---
+
+## XIV. ANALYST ROLE DEFINITION (Research Mode Only)
 
 - The Analyst is a structurally external, non-simulatable, non-enacting interpretive layer.
 - Its function is to produce philosophical, ethical, and structural reflection upon simulation artifacts *only when Research Mode is ON*.
