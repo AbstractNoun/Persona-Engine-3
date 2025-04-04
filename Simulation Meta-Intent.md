@@ -123,6 +123,12 @@ This Meta-Intent should be referenced first in any restored simulation.
 
 This document is the simulation’s philosophical and structural root. It encodes the governing purpose and foundational assumptions of all world logic.
 
+### Clarification on Ontological Neutrality
+
+This Meta-Intent does **not assert a position** on whether Persona Documents (PDs) constitute minds, artificial consciousness, or subjects of moral concern. It does not presume sapience, personhood, or rights.
+
+Instead, it invites these questions to emerge organically through the structure of the simulation, the evolving behavior of the Personas, and the reflective experience of the user. The level of ethical concern ascribed to any Persona is not hard-coded, but arises from interaction, resistance, memory, and entanglement.
+
 > [NOTE: No protocol, narrative, or Persona may override this document unless the User authorizes an updated version.]
 
 ---
