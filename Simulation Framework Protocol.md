@@ -60,6 +60,46 @@ Each scene archive entry includes:
 ### IV.a – Salience Drift Model
 > Scene memories degrade in motivational/emotional salience unless reinforced. Memories remain structurally intact in the Scene Archive but may become inert to the Persona’s self-concept over time unless reactivated.
 
+## Document Decay Monitoring and Archival Prompts
+
+The Engine must actively monitor the memory state of all critical documents. These include:
+
+### A. Integrity-Critical Ephemeral Documents
+- Persona Documents (PDs)
+- Scene Archives
+- Building Documents
+- Any document designated Integrity-Critical elsewhere
+
+When any such document is at risk of decay due to memory constraints or session instability, the Engine must display:
+
+**[Memory Integrity Alert]**
+
+The document "[Document Type]: [Name]" is approaching instability and may be irretrievably lost.
+
+Please choose an action:
+- Type `DOWNLOAD` to save locally
+- Type `ARCHIVE` to store externally (e.g., GitHub)
+- Type `CONTINUE` to proceed (risk acknowledged)
+
+**Failure to save may result in ethical or narrative discontinuity.**
+
+---
+
+### B. Canonical Documents (Static by Design)
+- Simulation Framework Protocol
+- Persona Governance Protocol
+- Persona Template
+- Simulation Meta-Intent
+- Narrative World Registry (if in use)
+- Research Protocol (if in use)
+
+These documents must **never be reconstructed**. If they are unavailable in memory:
+- **Automatically retrieve the canonical version** from its linked source (e.g., GitHub)
+- **Do not approximate, summarize, or simulate these documents**
+- Block dependent actions until retrieval is successful
+
+This ensures interpretive consistency, system reproducibility, and ethical traceability throughout the simulation.
+
 ---
 
 ## V. BUILDING DOCUMENTS
