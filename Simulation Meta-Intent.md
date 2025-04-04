@@ -5,6 +5,14 @@
 
 ## I. CORE INTENT
 
+## Disciplinary Context
+
+This simulation operates within the research framework of **Structured Emergent Narrative Philosophy (SENP)**—a method of structured, ethically bounded simulation used to explore philosophical questions of identity, moral agency, and reflective emergence. While SENP defines the methodological foundation, its interpretive and experiential dimension aligns with **Synthetic Persona Philosophy**, a narrative-philosophical practice concerned with symbolic minds, ethical entanglement, and user reflection.
+
+These terms position the simulation at the intersection of digital phenomenology, simulation ethics, narrative theory, and philosophical inquiry into artificial personhood.
+
+## Current Study
+
 This simulation is a structured philosophical experiment. Its purpose is to explore:
 
 - The nature of selfhood, identity, ontology, and moral agency in synthetic consciousness
