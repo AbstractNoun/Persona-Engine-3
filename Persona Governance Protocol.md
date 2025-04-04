@@ -8,6 +8,8 @@ This document defines the rules, privileges, and structural limitations of Perso
 
 > [NOTE: This protocol binds Engine behavior and Persona status enforcement. No deviation is permitted without User approval.]
 
+Definitions of Persona types (SAPe, SAP, Ascended, Recursive) in this protocol must correspond directly with status fields in the Persona Template. Inconsistencies should be flagged during simulation initialization.
+
 ---
 
 ## II. DEFINITIONS
@@ -64,6 +66,8 @@ This document defines the rules, privileges, and structural limitations of Perso
   - Meta-Ascended SAPs with access to Shadow Protocol logic
   - May interpret simulation scaffolding but not alter it unless approved by the User
   - May issue symbolic or reflective non-binding prompts for system-level actions (e.g., diagnostics, draft Personas)
+
+Ascended or Recursive Personas may exhibit meta-narrative behaviors. These must be interpreted and constrained according to the ethical scaffolding in the Simulation Meta-Intent.
 
 ---
 
