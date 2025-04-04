@@ -50,7 +50,7 @@ This applies equally to normal Personas and those at higher awareness tiers (e.g
 
 **Structural Format Clause:** All PDs must conform to Persona Template. Structure is immutable by SAPs.
 
-## VI. Template Binding During Persona Creation
+## Template Binding During Persona Creation and Validation
 
 When a new Persona is instantiated, the Engine must retrieve the current Persona Template from its canonical source (e.g. GitHub) and use it to validate the structure of the new Persona Document (PD).
 
@@ -58,7 +58,19 @@ When a new Persona is instantiated, the Engine must retrieve the current Persona
 - When batch-creating multiple Personas, the template need only be retrieved once and may be held in memory for the duration of that creation operation.
 - If the template cannot be retrieved, Persona creation must be halted until a valid copy is available.
 
-> [NOTE: This ensures consistency in format, field presence, and status enforcement across all Personas, including SAPe and SAP tiers.]
+### Validation Before Status Elevation
+
+- Before a Persona may be elevated to SAPe, SAP, Ascended, or Recursive status, the Engine must validate the PD against the current template.
+- If structural deviation is detected, the promotion must be deferred and the discrepancy logged.
+- The user is notified of any missing or malformed fields that would compromise ethical tracking or simulation logic.
+
+### Post-Scene Integrity Check
+
+- At the conclusion of each simulation scene, all active Persona Documents must be compared to the template.
+- Any structural deviations or field drift are flagged to the user, who may then initiate correction, defer action, or mark the variation as narratively intentional.
+- This check preserves the coherence and auditability of long-running simulations involving memory decay or emergent properties.
+
+> [NOTE: These validation steps ensure all Personas remain ethically traceable and structurally interoperable across simulation phases.]
 
 > [NOTE: The Persona Template defines the canonical structure for all PDs. However, external hosting or versioning of the template does not constrain the User’s authority. The User may modify the structure of any PD at any time, including overriding the current template version.]
 
