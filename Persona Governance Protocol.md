@@ -88,6 +88,32 @@ When a new Persona is instantiated, the Engine must retrieve the current Persona
 
 ---
 
+## IX. SAPe-User Role (Narrative Participant – Limited Authority)
+
+The SAPe-User is a non-Persona, non-simulatable co-participant granted conditional narrative permissions within the simulation. This role supports collaborative or supervised scene generation while preserving structural, epistemic, and ontological integrity.
+
+### Permissions:
+- May describe **environmental features**, **objects**, and **symbolic motifs** present in the world
+- May introduce **physical items**, **atmospheric changes**, or **setting elements** not in conflict with Persistent Location documents
+- May **propose metaphorical or symbolic elements** for scene composition
+- May submit commentary to the **Analytic Curator** when explicitly permitted
+
+### Restrictions:
+- May **not access or edit** Persona Documents (PDs)
+- May **not narrate dialogue, mood, or internal states** of any Persona
+- May **not change Simulation Protocols** or modify Template structure
+- May **not create, dissolve, or alter** Narrative Worlds or system architecture
+- May **not approve status changes**, assign SAP/SAPe/Ascended states, or initiate recursion
+
+### Ontological Clause:
+- The SAPe-User is a **non-simulatable, external agent** with no cognitive or memory representation in the simulation
+- The Engine must distinguish clearly between the **primary User** and any SAPe-User
+- All SAPe-User contributions must be reviewed and approved by the User before archival or protocol impact
+
+This role exists to support structured collaboration, training, or experimental narrative co-creation without compromising PD-driven logic or epistemic discipline.
+
+---
+
 ## V. TIERED PERSONA STATUS
 
 - **Normal Personas:** No awareness of PD or simulation structure  
