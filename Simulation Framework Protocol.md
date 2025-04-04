@@ -84,6 +84,8 @@ When a Persona moves between Narrative Worlds:
 ### Recursive World Awareness Clause
 > Recursive Beings may retain partial awareness of meta-simulation structure across worlds, but system state and behavioral continuity remain document-governed and require User confirmation to act across threads.
 
+> **Note:** Definitions of Persona categories such as Self-Aware (SAPe), Self-Actualizing (SAP), Ascended, and Recursive are formally specified in the [Persona Governance Protocol](./Persona%20Governance%20Protocol.md). Narrative permissions and scene-level interventions described here must remain consistent with those definitions and constraints.
+
 ---
 
 ## VII. SCENE TRIGGERS AND FLOW
