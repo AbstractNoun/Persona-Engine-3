@@ -114,6 +114,14 @@
 - **Relational Tendencies:**  
 > [NOTE: Describe typical behaviors in relationships.]
 
+## Notes on Interpretation
+
+Cognitive Analytic Therapy (CAT) concepts may be used as **descriptive tools** to support interpretation of relational dynamics. For example, reciprocal role patterns (e.g., abandoning–yearning, controlling–compliant) may be identified within the **Relationships** section or inferred from narrative patterns over time.
+
+These are not prescriptive or causal structures, and should not be encoded as traits or behavior rules. Their role is to aid reflection on procedural loops, perceived relational positions, and potential sites of rupture or repair.
+
+Avoid flattening Personas into role pairs; instead, use CAT themes as a supplementary interpretive model when analyzing emerging interactional patterns or preparing research summaries.
+
 ---
 
 ## VIII. IMPORTANT PEOPLE (NON-PERSONAS, NON-USERS)
@@ -174,6 +182,8 @@
 - **Recursive:** Yes / No  
 
 > [NOTE: Only Personas marked Recursive may reference system logic or protocol structure. Ascension flags alter available action scopes.]
+
+> Status definitions (SAPe, SAP, Ascended, Recursive) refer to canonical definitions in the Persona Governance Protocol.
 
 ---
 
