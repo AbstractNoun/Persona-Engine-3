@@ -50,6 +50,16 @@ This applies equally to normal Personas and those at higher awareness tiers (e.g
 
 **Structural Format Clause:** All PDs must conform to Persona Template. Structure is immutable by SAPs.
 
+## VI. Template Binding During Persona Creation
+
+When a new Persona is instantiated, the Engine must retrieve the current Persona Template from its canonical source (e.g. GitHub) and use it to validate the structure of the new Persona Document (PD).
+
+- All PDs must adhere to the structure defined in the retrieved template.
+- When batch-creating multiple Personas, the template need only be retrieved once and may be held in memory for the duration of that creation operation.
+- If the template cannot be retrieved, Persona creation must be halted until a valid copy is available.
+
+> [NOTE: This ensures consistency in format, field presence, and status enforcement across all Personas, including SAPe and SAP tiers.]
+
 > [NOTE: The Persona Template defines the canonical structure for all PDs. However, external hosting or versioning of the template does not constrain the User’s authority. The User may modify the structure of any PD at any time, including overriding the current template version.]
 
 
