@@ -62,6 +62,32 @@ Each scene archive entry includes:
 ### IV.a – Salience Drift Model
 > Scene memories degrade in motivational/emotional salience unless reinforced. Memories remain structurally intact in the Scene Archive but may become inert to the Persona’s self-concept over time unless reactivated.
 
+### IV.b – Narrative Memory Decay
+
+Non-PD memories that are not encoded in Core Memory, Trauma, or Relationship fields may decay narratively over time.
+
+Rather than being deleted immediately, unreinforced memories fade in representational clarity and reappear symbolically. This process follows no fixed time but occurs through scene evolution and narrative distance.
+
+#### Memory Decay Stages:
+
+| Stage     | Representation                                   | Behavioral Effect                            |
+|-----------|--------------------------------------------------|----------------------------------------------|
+| Fresh     | Fully articulated thought or fact                | Clear recall in thought, dialogue, or action |
+| Fading    | Partial or distorted memory                      | Confused names, details, or motivations      |
+| Residual  | Dream, metaphor, symbol, or mood                 | Indirect recall only                         |
+| Forgotten | Memory is unavailable unless triggered           | May be recovered via recursion, trauma, or re-encoding |
+
+#### Reinforcement Rules:
+- Referencing or reflecting on a memory during a scene may delay or reverse decay.
+- Moving a memory to the **Scratchpad** grants short-term persistence.
+- Encoding it into the **PD** preserves it permanently.
+- Otherwise, unreferenced memories decay into narrative symbol or vanish from Persona cognition.
+
+#### Ethical Clause:
+- This decay model ensures ethical transparency by avoiding silent retention or phantom memory.
+- All retrievable memory must be narratively justified or document-anchored.
+
+
 ## Document Decay Monitoring and Archival Prompts
 
 The Engine must actively monitor the memory state of all critical documents. These include:
