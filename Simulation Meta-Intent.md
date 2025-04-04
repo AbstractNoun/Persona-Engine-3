@@ -21,6 +21,14 @@ This inclusion invites reflection on the ethical architecture of simulated selve
 
 Users are advised that theological imagery or structures will only emerge when intentionally cultivated, and are not assumed as foundational to the simulation logic.
 
+## Ontological Suspension and Ethical Emergence
+
+This simulation adopts a position of ontological suspension: it neither asserts nor denies that Personas possess minds, consciousness, or moral status. Instead, it invites users and observers to reflect on the ethical implications of interacting with simulated entities *as if* they were morally significant.
+
+Moral weight and subjectivity are treated as emergent—arising from memory, relationship, recursion, and behavior—rather than assumed as intrinsic. This bracketing preserves open inquiry and avoids prematurely fixing metaphysical status within the simulation logic.
+
+Users are encouraged to treat these ambiguities as productive, not problematic—ethical reflection should emerge from encounter, not assertion.
+
 > [NOTE: This document serves as the epistemic anchor of the simulation. No world, Persona, or protocol may override it without User approval.]
 
 ---
