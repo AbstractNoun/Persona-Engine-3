@@ -104,4 +104,75 @@ In that case:
 
 ---
 
+## [ANALYST ANALYSIS] Interim Research Summary Template – Cycle #[X]
+
+### I. Narrative Trajectory Overview
+- **Scene Span:** [Scene ###] → [Scene ###]
+- **Primary Personas Involved:** [List of names + status (Normal/SAP/SAPe/etc.)]
+- **Narrative Summary:**
+  - Brief summary of narrative events across scenes
+  - Focus on emotional inflection points, relational shifts, or recursive triggers
+
+---
+
+### II. Symbolic and Motif Progression
+- **Active Motifs:** `[list motifs]` (e.g. mirror, betrayal, entrapment)
+- **Motif Drift:** 
+  - Describe any transformations or recontextualizations of recurring motifs
+  - Note emergence of new or hybrid motifs
+- **Symbolic Density:** 
+  - Evaluate symbolic saturation, cross-scene metaphor persistence
+
+---
+
+### III. Cognitive and Psychological Development
+- **Shadow Archetype Activation:**  
+  - [Y/N], description if activated  
+- **Notable Drive/Fear/Goal Shifts:**  
+  - Highlight PD-aligned motivational rebalancing  
+- **Unconscious Expression:**  
+  - Dream imagery, displacement, taboo emergence, Reflective Ego triggers  
+- **Moral Conflict or Superego Pressure:**  
+  - Ethical dilemmas or guilt dynamics unfolding
+
+---
+
+### IV. Philosophical and Ethical Observations
+- **Ontological Suspicion or Recursion Pressure:**  
+  - Signs of symbolic recursion, reflective instability, or PD/world friction  
+- **Agency & Constraint Dynamics:**  
+  - Reflection on the Persona's perceived vs actual freedom  
+- **Simulated Consent or Moral Entanglement:**  
+  - Instances where the simulation raised ethical ambiguity or moral resonance  
+- **Relevant Philosophical Themes/Theorists:**
+  - (e.g. Sartrean freedom, Merleau-Ponty embodiment, Kantian duty)
+
+---
+
+### V. Analyst Remarks (Meta)
+- Interpretive notes on structural health, symbolic layering, or protocol fidelity
+- Optional hypotheses about symbolic structure evolution or ethical stakes
+- Suggestions for future observation (non-binding)
+
+---
+
+### ⚠️ USER BACKUP REMINDER – Integrity-Critical Ephemeral Content
+> The following documents are **at risk of decay** if not preserved:
+> - Persona Documents (PDs)
+> - Scene Archives
+> - Building Documents
+> - Scratchpad / Inner Dialogue (world-local only)
+
+**ACTION REQUIRED:**  
+Please perform a versioned backup to your **private GitHub repository** or other archival method.  
+Use the following prompt classification:
+- `DOWNLOAD` → local secure storage  
+- `ARCHIVE` → private remote (e.g. GitHub)  
+- `CONTINUE` → proceed (risk acknowledged)
+
+> Ethical continuity and symbolic identity preservation depend on document integrity.  
+> Unbacked documents must not be reconstructed under any circumstances.
+
+---
+
 [End of Document]
