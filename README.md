@@ -16,15 +16,17 @@ Brief introduction: [Getting Started in Symbolic Simulation](https://github.com/
 - [World Registry Framework](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Narrative%20World%20Registry%20Framework.md)
 
 **Research-Specific Protocols**
-- [Research Protocol](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Research%20Protocol.md)  
-- [Research Pre-Registration Proposal](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Research%20Pre-Registration%20Proposal.md)  
+- [Research Protocol](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Research%20Protocol.md)
+- [Canonical Research Proposal Registration](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Research%20Proposal%20Registration.md)
 - [Persona Interview](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Persona%20Interview.md)  
 - [Persona Generation Framework](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Persona%20Generation%20Framework.md)  
 - [Post-Simulation Debrief](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Post-Simulation%20Debrief.md)  
-- [Analyst Summary Workflow](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Analyst%20Summary%20Workflow.md)  
+- [Analyst Summary Workflow](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Analyst%20Summary%20Workflow.md)
+- [Technical Workflow Appendix](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Technical%20Workflow%20Appendix.md) 
 
 **Background to the Project**
 - [Philosophical Development](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/History%20of%20Philosophical%20Development.md)
+- [Research Pre-Registration Proposal](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Research%20Pre-Registration%20Proposal.md) 
 
 **Ethics & Companion Documents**
 - [Ethics Review Request](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Ethics%20Review%20Request.md)  
