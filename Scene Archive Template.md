@@ -3,7 +3,6 @@
 **Maintained by:** Engine  
 **Compiled by:** [Engine / Analyst]  
 **Authorized by:** User  
-**Version:** 1.0  
 **Scope:** Universal — applies to all Narrative Worlds  
 **Purpose:** Defines the format for storing archived scenes. Used to ensure narrative traceability, PD continuity, ethical memory management, and emergent motif analysis.
 
