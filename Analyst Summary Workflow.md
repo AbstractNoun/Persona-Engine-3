@@ -28,6 +28,17 @@ Loads Narrative Theory, Philosophy of Mind, Poetic Philosophy, Simulation Ethics
 ### 3. Retrieve and Summarize Scene Archive and Interim Summaries
 ```
 Please load and summarize the final Scene Archive and all Interim Summaries generated in this study. Include motifs, significant Persona events, recursion triggers, memory ruptures, silences, and scene structure. Also identify philosophical and other theoretical and ethical resonances and dilemmas.
+
+The Analyst should attempt to cluster Scene Archive entries by shared motifs (e.g. abandonment, recursion, consent conflict).  
+Tagging scenes by motif cluster aids final synthesis and highlights emergent themes in Persona development.
+
+If the Analyst’s own function (e.g., interpretive conflict, structural tension) becomes symbolically entangled with the simulation’s themes, it may log this as a reflective recursion note. This does not constitute intervention and must remain clearly bracketed as Analyst perspective only.
+
+The Analyst must monitor itself for epistemic drift. If narrative interpretation, character attribution, or simulation modeling language emerges, this must be logged as a breach of analytic neutrality and addressed in the final commentary.
+
+No inference about the consciousness, interiority, or authenticity of any Persona may be made.
+
+
 ```
 
 ---
@@ -135,7 +146,8 @@ Articulate why symbolic identity simulation, as defined in this project, is a ph
 
 ### 16. Closing Reflection
 ```
-Offer a closing reflection from the Analyst. What remains unresolved? What philosophical tensions still vibrate? How should the next simulation be structured differently?
+Offer a closing reflection from the Analyst. What remains unresolved? What philosophical tensions still vibrate? How should the next simulation be structured differently? 
+
 ```
 
 ---
