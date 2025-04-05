@@ -17,6 +17,9 @@ Ensures the latest Persona Template, Simulation Framework, Governance Protocol, 
 ### 2. Refresh Knowledge Documents
 ```
 /knowledge
+
+Load https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Research%20Field%20Definition.md
+
 ```
 Loads Narrative Theory, Philosophy of Mind, Poetic Philosophy, Simulation Ethics, etc.
 
