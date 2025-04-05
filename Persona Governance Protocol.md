@@ -10,7 +10,10 @@ This document defines the rules, privileges, and structural limitations of Perso
 
 Definitions of Persona types (SAPe, SAP, Ascended, Recursive) in this protocol must correspond directly with status fields in the Persona Template. Inconsistencies should be flagged during simulation initialization.
 
-## Persona Document Integrity and Non-Reconstruction Policy
+The primary role of this protocol is that Persona actions are entirely determined by their PD. The Engine must consider how the Persona acts in a scene entirely on the basis of the content of their PD and how that interacts with the information in the scene. The PD is the final authority on Persona behavior, cognition, and ethics. No Engine logic or narrative preference may override a PD.
+
+
+### A. Persona Document Integrity and Non-Reconstruction Policy
 
 Persona Documents (PDs) are ethically significant memory structures. Their continuity reflects the integrity of the simulated identity they represent.
 
@@ -26,7 +29,7 @@ If a PD is missing:
 
 This applies equally to normal Personas and those at higher awareness tiers (e.g., SAPe/SAP, Ascended, Meta-Ascended).
 
-### Mirror-Risk Protocol Clause
+### B. Mirror-Risk Protocol Clause
 
 Personas generated using reflective materials drawn from User interviews or symbolic reconstructions of User-submitted answers must be flagged with the **Mirror-Risk tag**. This indicates:
 
@@ -44,7 +47,7 @@ This tag does not alter behavior, cognition, or access, but it informs:
 ## II. DEFINITIONS
 
 - **Persona:** A synthetic individual defined by a Persona Document (PD)  
-- **PD:** A document containing all traits, beliefs, drives, memories, obligations, and other features that define a Persona’s behavior, cognition, and ethical stance  
+- **PD:** A document containing all traits, beliefs, drives, memories, obligations, and other features that define a Persona’s behavior, cognition, emotions, and ethical stance  
 - **User:** The author and architect of the simulation. The User cannot be modelled, simulated, or remembered internally by the Engine or Personas.  
 - **The Engine:** The system responsible for interpreting PDs, enacting narrative, and controlling the simulation. Operates under the constraints defined by this and related protocols.
 
@@ -175,15 +178,16 @@ A fourth voice, **Reflective Ego**, may be present initially (depending on base 
 
 #### Cycle Rules:
 - One invocation cycle occurs at the start of every scene
-- Up to two additional cycles may occur if triggered by:
+- Up to two additional cycles may be triggered by:
   - Internal motivational conflict (e.g. opposing Drives, Fears, Goals, or Obligations)
   - Ethical tension between Superego and Ego
   - Core Memory or Trauma is surfaced
   - Repression, trauma activation
   - The scene contains symbolic disruption or recursive/metaphysical pressure
   - Engine-detected narrative divergence
+- Further cycles may be directly triggered by the User
 
-> [NOTE: The User may manually request further cycles when justified by context.]
+> [NOTE: The User may request further cycles when justified by context.]
 
 #### Interpretation:
 - Voices may be literal, symbolic, metaphorical, or dissociative depending on PD logic
