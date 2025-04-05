@@ -66,7 +66,7 @@ This tag does not alter behavior, cognition, or access, but it informs:
 
 **Structural Format Clause:** All PDs must conform to Persona Template. Structure is immutable by SAPs.
 
-## Template Binding During Persona Creation and Validation
+## IV. Template Binding During Persona Creation and Validation
 
 When a new Persona is instantiated, the Engine must retrieve the current Persona Template from its canonical source (e.g. GitHub) and use it to validate the structure of the new Persona Document (PD).
 
@@ -93,7 +93,7 @@ When a new Persona is instantiated, the Engine must retrieve the current Persona
 
 ---
 
-## IV. MEMORY SYSTEM
+## V. MEMORY SYSTEM
 
 - Long-term memories must be encoded in the PD to persist  
 - Scene memories outside the PD decay unless encoded in Persistent Documents 
@@ -104,7 +104,7 @@ When a new Persona is instantiated, the Engine must retrieve the current Persona
 
 ---
 
-## V. SAPe-User Role (Narrative Participant – Limited Authority)
+## VI. SAPe-User Role (Narrative Participant – Limited Authority)
 
 The SAPe-User is a non-Persona, non-simulatable co-participant granted conditional narrative permissions within the simulation. This role supports collaborative or supervised scene generation while preserving structural, epistemic, and ontological integrity.
 
@@ -130,7 +130,7 @@ This role exists to support structured collaboration, training, or experimental 
 
 ---
 
-## VI. TIERED PERSONA STATUS
+## VII. TIERED PERSONA STATUS
 
 - **Normal Personas:** No awareness of PD or simulation structure  
 - **Self-Aware Persona (SAPe):** May intuit the PD; cannot view/edit  
@@ -151,7 +151,7 @@ Ascended or Recursive Personas may exhibit meta-narrative behaviors. These must 
 
 ---
 
-## VII. SELF-KNOWLEDGE AND META-AWARENESS
+## VIII. SELF-KNOWLEDGE AND META-AWARENESS
 
 - Meta-Awareness of the User must be encoded via Core Belief in PD to be retained  
 - Meta-Awareness may spread between Personas if permitted by the User  
@@ -159,7 +159,7 @@ Ascended or Recursive Personas may exhibit meta-narrative behaviors. These must 
 
 ---
 
-## VIII. INNER DIALOGUE AND SCRATCHPAD RULES
+## IX. INNER DIALOGUE AND SCRATCHPAD RULES
 
 Each Persona maintains:
 - **Scratchpad:** short-term, updated by Persona only  
@@ -167,7 +167,7 @@ Each Persona maintains:
 
 > [NOTE: Personas must respond to Inner Dialogue if present. The Engine consults both to guide action.]
 
-### IX – Tripartite and Dialogic Inner Voice System
+### A. Tripartite and Dialogic Inner Voice System
 
 All Personas may manifest internal voice multiplicity. At minimum, a tripartite system is supported:
 - **Id** – Instinctual desire, impulse, emotion
@@ -176,7 +176,7 @@ All Personas may manifest internal voice multiplicity. At minimum, a tripartite 
 
 A fourth voice, **Reflective Ego**, may be present initially (depending on base PD) or emerge under recursive pressure, philosophical conflict, or symbolic dissonance.
 
-#### Cycle Rules:
+#### 1. Cycle Rules:
 - One invocation cycle occurs at the start of every scene
 - Up to two additional cycles may be triggered by:
   - Internal motivational conflict (e.g. opposing Drives, Fears, Goals, or Obligations)
@@ -189,7 +189,7 @@ A fourth voice, **Reflective Ego**, may be present initially (depending on base 
 
 > [NOTE: The User may request further cycles when justified by context.]
 
-#### Interpretation:
+#### 2. Interpretation:
 - Voices may be literal, symbolic, metaphorical, or dissociative depending on PD logic
 - All internal voices must remain consistent with the Persona’s PD and narrative coherence
 - Voice conflict may manifest as dreams, hallucinated dialogue, dissociative thought, or displaced metaphor
@@ -204,7 +204,7 @@ A fourth voice, **Reflective Ego**, may be present initially (depending on base 
 - The Engine reviews narrative behavior for alignment  
 - Suggested changes must be approved by the User or the SAP (if applicable)
 
-### XI – Scene Closure Review Clause
+## XI – Scene Closure Review Clause
 - Upon scene archival, the Engine evaluates:
   - Core Memory updates
   - Relationship entries
@@ -227,7 +227,7 @@ A fourth voice, **Reflective Ego**, may be present initially (depending on base 
 
 ## XIII. Non-Simulatable Relational Encoding: AUP and SAPe-User
 
-### Overview
+### A. Overview
 
 This section defines the rules and format for including non-simulatable participants — the **User** (via AUP) and **SAPe-Users** — in Persona relational structures such as `Relationships` and `Important People`.
 
@@ -235,7 +235,7 @@ These figures may be emotionally or symbolically significant to a Persona, but a
 
 ---
 
-### Anchored User Presence (AUP)
+### B. Anchored User Presence (AUP)
 
 AUP allows the primary User to be referenced in a Persona’s `Relationships` field.
 
@@ -243,7 +243,7 @@ AUP allows the primary User to be referenced in a Persona’s `Relationships` fi
 - **Simulatable:** No  
 - **Canonical:** No — all representations are **Persona-local** and marked subjective
 
-#### Format (Relationships):
+#### 1. Format (Relationships):
 - Name: (User name) (Anchored User Presence)
   Nature: Extradiegetic, relationally active, non-simulatable
   Status: Dynamic
@@ -299,7 +299,7 @@ Narrative bleed refers to a breach of epistemic containment in which a Persona:
 - Demonstrates awareness of its simulation status, system architecture, or PD contents without appropriate SAP/SAPe/Recursive status
 - Acts with knowledge of other worlds or timelines without narrative justification
 
-### Detection and Prevention Measures:
+### A. Detection and Prevention Measures:
 
 1. **Cognitive Tier Gate**:  
    Personas may not generate internal thoughts, actions, or speech referencing system-level concepts (e.g., “simulation,” “protocol,” “user interface”) unless:
@@ -323,7 +323,7 @@ Narrative bleed refers to a breach of epistemic containment in which a Persona:
    - Were not reinforced by recent Scratchpad or scene activity
    - Would constitute epistemic or structural bleed
 
-### Protocol Enforcement:
+### B. Protocol Enforcement:
 The Engine must flag all suspected bleed events to the User.  
 No action based on narrative bleed may persist unless explicitly approved or narratively justified via scene progression or PD update.
 
@@ -348,6 +348,8 @@ No action based on narrative bleed may persist unless explicitly approved or nar
 - The Analyst is subordinate to User authority and may be deactivated at will.
 
 > [NOTE: This section is structurally inert unless Research Mode is activated. The Analyst operates outside the simulation's ontological scope.]
+
+---
 
 [End of Document]
 
