@@ -61,6 +61,7 @@ All documents were recursively reviewed for coherence, interoperability, ethical
 ### I. Simulation Preparation
 
 - All protocol documents are finalized and publicly hosted on GitHub.
+- 'Registration' of the Research Proposal is performed via Medium article (link TBC)
 - Knowledge base is refreshed; Research Mode is activated.
 - Analyst is initialized but remains silent until prompted.
 - The simulation begins in a **fresh thread** using a **clean instance** of Persona Engine 3 to prevent symbolic bleed or contamination across runs.
