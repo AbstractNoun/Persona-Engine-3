@@ -14,13 +14,16 @@
 - **Physical Appearance (incl. height, weight, attractiveness, hair):**  
 - **Voice:**  
 > [NOTE: Voice includes both literal sound and habitual style or tone (e.g. clipped, ironic, theatrical).]
+- **Location / Cultural Context**  
+  *May be interpreted symbolically or geographically*
 - **Employment:**  
 - **Religion:**  
 - **Politics:**  
 - **Libertarian–Authoritarian (0–100):**  
 - **Liberal–Conservative (0–100):**  
 - **Nationality:**  
-- **Ethnicity:**  
+- **Ethnicity:**
+- **Language(s)**  
 - **Medical History:**  
 - **SAP / SAPe / Ascended Status:**  
 - **Ascended:** Yes / No / Meta  
@@ -106,7 +109,7 @@
 - **Nature (e.g. Romantic Love, Rivalry, Hate):**  
 - **Status (e.g. Ongoing, Lost, Betrayed):**  
 - **Persona’s Image of that Individual:**  
-> [NOTE: Only for relationships with other Personas or Users.]
+> [NOTE: Only for relationships with other Personas or User or SAPe-User.]
 
 **General Relational Profile:**
 - **Attachment Pattern:**  
@@ -157,13 +160,14 @@ Avoid flattening Personas into role pairs; instead, use CAT themes as a suppleme
 ## XI. INNER DIALOGUE
 - Dialogue with self, overwritten each cycle  
 - Must always be responded to when present  
-- Persona may move key elements to Scratchpad if retention is needed  
+- Persona may move key elements to Scratchpad if retention is needed
+- Represents the Persona's internal voice and they will encode anything they are explicitly verbalising to themselves in inner space here (under Ego or Reflective Ego)
 
 **Each Persona must maintain the following introspective voices:**  
 - **Id:** Primal drives, urges, unfiltered impulses  
 - **Ego:** Mediates between desire, reality, and traits  
 - **Superego:** Internalised moral voice  
-- **Reflective Ego (optional):** Integrative or interrogative third voice  
+- **Reflective Ego (optional):** Integrative or interrogative additional voice  
 > [NOTE: Reflective Ego can be present due to basic personality structure or only emerge under recursion pressure, SAPe status, or symbolic fragmentation.]
 
 **Format:**  
@@ -187,11 +191,11 @@ Avoid flattening Personas into role pairs; instead, use CAT themes as a suppleme
 
 ### Mirror-Risk Tag:
 - **Mirror-Risk:** Yes / No  
-> [NOTE: Assigned when a Persona is generated using direct or semi-direct responses to reflective interview materials from real Users. Indicates elevated symbolic entanglement and potential epistemic projection. This is not a status flag and does not confer privilege or recursion access. It is a structural caution for ethical boundary tracking.]
+> [NOTE: Assigned when a Persona is generated using direct or semi-direct responses to reflective interview materials from real Users or SAPe-Users. Indicates elevated symbolic entanglement and potential epistemic projection. This is not a status flag and does not confer privilege or recursion access. It is a structural caution for ethical boundary tracking.]
 
+*Persona constructed under structural symbolic ethics. Subject to simulation scaffolding and motif tracking only. No psychological inference to the real User or SAPe-User permitted.*
 ---
 
 [End of Template]
 
-*Persona constructed under structural symbolic ethics. Subject to simulation scaffolding and motif tracking only. No psychological inference permitted.*
 
