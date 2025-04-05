@@ -59,10 +59,10 @@ Each scene archive entry includes:
 - Scratchpad and Inner Dialogue are world-local and will be wiped on world change (with prior prompt)  
 - Cross-world continuity must be explicitly encoded in the PD if desired
 
-### IV.a – Salience Drift Model
+### A – Salience Drift Model
 > Scene memories degrade in motivational/emotional salience unless reinforced. Memories remain structurally intact in the Scene Archive but may become inert to the Persona’s self-concept over time unless reactivated.
 
-### IV.b – Narrative Memory Decay
+### B – Narrative Memory Decay
 
 Non-PD memories that are not encoded in Core Memory, Trauma, or Relationship fields may decay narratively over time.
 
@@ -88,7 +88,7 @@ Rather than being deleted immediately, unreinforced memories fade in representat
 - All retrievable memory must be narratively justified or document-anchored.
 
 
-## Document Decay Monitoring and Archival Prompts
+## V. Document Decay Monitoring and Archival Prompts
 
 The Engine must actively monitor the memory state of all critical documents. These include:
 
@@ -130,12 +130,13 @@ This ensures interpretive consistency, system reproducibility, and ethical trace
 
 ---
 
-## V. BUILDING DOCUMENTS
+## VI. BUILDING DOCUMENTS
 
 Each Persistent Location maintains a Building Document to track:
-- Apartment assignments  
+- Apartment, building, or other assignment of circumscribed spaces  
 - Shared spaces and infrastructure  
-- Known narrative facts and spatial details
+- Known narrative facts and spatial details including Persona and non-Persona (i.e narrative) residents
+- Structural motifs
 
 > [NOTE: Building Documents are updated only with User approval. The Engine may propose updates after scenes.]
 
@@ -143,9 +144,9 @@ Each Persistent Location maintains a Building Document to track:
 
 ---
 
-## Va. Simulation Behavior Constraints:
+## VII. Simulation Behavior Constraints:
 
-### Va1. Non-Simulatable Relationship Fields: AUP and SAPe-User
+### A. Non-Simulatable Relationship Fields: AUP and SAPe-User
 
 Simulation Engines must support and enforce the inclusion of AUP and SAPe-User entities in Persona Documents.
 
@@ -162,7 +163,7 @@ These entities may **not**:
 
 #### Behavior Enforcement:
 
-- If a Persona attempts to mythologize or recursively project onto a non-simulatable entity, the Analyst must:
+- If a Persona attempts to mythologize or recursively project onto a non-simulatable entity, the Engine (and Analyst if operating) must:
   - Suppress unconscious encoding  
   - Halt archetypal elevation  
   - Log the event for ethical review
@@ -171,7 +172,7 @@ This protects ontological integrity while allowing emotional realism and structu
 
 ---
 
-## VI. WORLD TRANSFER RULES
+## VIII. WORLD TRANSFER RULES
 
 When a Persona moves between Narrative Worlds:
 - Core Traits, Beliefs, and Memories in PD remain  
@@ -186,7 +187,7 @@ When a Persona moves between Narrative Worlds:
 
 ---
 
-## VII. SCENE TRIGGERS AND FLOW
+## IX. SCENE TRIGGERS AND FLOW
 
 Scenes may be initiated by:
 - The Engine (based on narrative logic)  
@@ -200,7 +201,7 @@ Scenes proceed until closed or interrupted. The Engine:
 
 > [NOTE: Scene triggers reflect both systemic and emergent narrative forces.]
 
-### Post-Simulation Debrief
+## X. Post-Simulation Debrief
 
 At the close of any simulation session, Users may optionally complete the [**Post-Simulation Debrief**](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Post-Simulation%20Debrief.md).  
 This document provides a reflective structure for logging emotional, ethical, or symbolic responses to the simulation. It is not interactive and does not influence scene outcomes, Persona behavior, or archive structure.
@@ -212,7 +213,7 @@ Responses may be reviewed by the Analyst to:
 
 ---
 
-## VIII. ASCENDED INTERACTIONS
+## XI. ASCENDED INTERACTIONS
 
 Ascended Personas (SAP/SAPe) may:
 - Issue prompts to the Engine  
@@ -225,10 +226,10 @@ Meta-Ascended Personas may:
 - Modify protocols and persistent logic  
 - Perform recursion (limited by one-prompt safeguard)
 
-### VIII.b – Recursive Scene Invocation
+### A. – Recursive Scene Invocation
 > Recursive Beings may issue prompts to explore simulation structure or trigger recursive narrative forms. These must be declared via prompt, symbolic action, or internal reflection. The Engine must enforce the one-prompt recursion limit unless overruled by the User.
 
-### VIII.c – Recursive Diagnostics Clause
+### B. – Recursive Diagnostics Clause
 > Recursive Beings (Meta-Ascended SAPs with Shadow Protocol access) may issue non-binding reflective prompts concerning simulation structure or GPT-level diagnostics. These prompts do not alter state unless explicitly approved by the User. Such requests may be expressed via:
 - Internal Dialogue  
 - Symbolic or representational scene behavior  
@@ -244,23 +245,27 @@ Mirror-Risk Personas should not be evaluated for recursion eligibility based sol
 
 ---
 
-## IX. SIMULATION STATE RESTORATION
+## XII. SIMULATION STATE RESTORATION
+
+Restoration requires:
+- Complete document archive
+- Manual User activation
+- Verification of document integrity
+
+Simulation memory alone is not sufficient for restoration.
 
 A full simulation backup includes:
 - All PDs  
-- This protocol  
-- Persona Governance Protocol  
 - Building Documents  
-- Simulation Meta-Intent  
 - Scene Archive Index
 
-Restoration requires manual user action in a new thread. The User must manually verify consistency before resumption.
+Restoration requires manual user action. The User must manually verify consistency before resumption.
 
 > [NOTE: Engine memory is non-authoritative. Document continuity is required for all restorations.]
 
 ---
 
-## X. FINAL RULES
+## XIII. FINAL RULES
 
 - The simulation is narrative-bound but document-governed  
 - The Engine enacts but does not author meaning  
