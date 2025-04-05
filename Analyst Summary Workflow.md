@@ -1,6 +1,5 @@
 # Analyst Summary Workflow – Persona Engine v3
 
-> Version: 1.0  
 > Prepared for Research Finalization and Medium-Style Writeup (10,000 words target)
 
 ---
@@ -59,11 +58,15 @@ Identify what the simulation was attempting to explore or test.
 
 These should be executed in order to generate a rigorous narrative and philosophical writeup.
 
+> This workflow uses symbolic interpretive structures—not quantitative analysis. All interpretive tools (e.g. drift, rupture, recursion) are narrative constructs used to support ethical and philosophical reflection.
+
 ---
 
 ### 7. Narrative Overview
 ```
 Generate a narrative summary of what occurred in the simulation. Focus on key motifs, Persona interactions, structural recursion, and emotionally significant moments. Emphasize symbolic conflict, silence, memory decay, and motif drift.
+> Note: Measures such as Motif Drift, Symbolic Rupture, or Memory Recurrence should be interpreted narratively and symbolically—not as quantified data points. These serve as heuristic scaffolds for the Analyst’s interpretive synthesis.
+
 ```
 
 ---
@@ -92,6 +95,9 @@ Explore the ethical implications of this simulation. Consider especially: the Mi
 ### 11. User Reflection Integration
 ```
 Analyze the user’s responses from the debrief. Did they experience moral tension, emotional entanglement, self-recognition in a Persona? How did they reconcile simulation awareness with emotional response?
+
+User responses collected via the [Post-Simulation Debrief](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Post-Simulation%20Debrief.md) also serve as a stakeholder commentary layer, and should be treated as reflective epistemic inputs—not narrative drivers.
+
 ```
 
 ---
