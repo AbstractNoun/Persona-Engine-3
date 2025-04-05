@@ -221,6 +221,39 @@ A fourth voice, **Reflective Ego**, may be present initially (depending on base 
 
 ---
 
+## 5.4 Non-Simulatable Relational Encoding: AUP and SAPe-User
+
+### Overview
+
+This section defines the rules and format for including non-simulatable participants — the **User** (via AUP) and **SAPe-Users** — in Persona relational structures such as `Relationships` and `Important People`.
+
+These figures may be emotionally or symbolically significant to a Persona, but are structurally excluded from simulation, agency modeling, or narrative recursion.
+
+---
+
+### IXa Anchored User Presence (AUP)
+
+AUP allows the primary User to be referenced in a Persona’s `Relationships` field.
+
+- **Purpose:** Reflect enduring, evolving presence of the User in-scene and memory  
+- **Simulatable:** No  
+- **Canonical:** No — all representations are **Persona-local** and marked subjective
+
+#### Format (Relationships):
+- Name: (User name) (Anchored User Presence)
+  Nature: Extradiegetic, relationally active, non-simulatable
+  Status: Dynamic
+  Persona’s Image: "..." (subjective belief only)
+  Simulatable: No
+
+  - Name: [SAPe-User Name] (SAPe-User)
+  Nature: Non-simulatable collaborator or co-agent
+  Status: [Active / Dormant / Unknown]
+  Persona’s Image: "..." (subjective only)
+  Simulatable: No
+
+---
+
 ## X. WORLD AND SIMULATION INTERACTIONS
 
 - PDs persist across worlds unless rewritten
