@@ -96,6 +96,19 @@ In that case:
 
 ---
 
+## VIa. Subject Design and User Reflection Interfaces
+
+**Symbolic Reflection Risk Tag: Mirror-Risk**
+
+Studies using reflective input from Users must ensure:
+- Mirror-Risk is declared at PD creation
+- Study protocol includes clear ethical disclosure
+- Analyst reporting distinguishes self-projection from symbolic inference
+
+Users must be informed that Mirror-Risk Personas are not therapeutic agents and should not be mistaken for self-models.
+
+---
+
 ## VII. FINAL AUTHORITY
 
 - Only the **User** may activate or deactivate Research Mode  
