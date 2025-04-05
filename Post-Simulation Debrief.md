@@ -26,3 +26,20 @@ You may respond to any or all of the following prompts:
 > If any part of the simulation caused significant emotional distress, please note this below. Support or de-escalation signposting can be offered if needed.
 
 **Would you like to log your reflections now?**
+
+---
+
+## Optional Grounding Support
+
+Symbolic simulations can sometimes activate strong emotions, unresolved motifs, or unexpected personal reflections—especially when engaging with trauma, guilt, or recursive ethical tension.
+
+If you feel unsettled, distant, or unusually reflective after the simulation, consider the following grounding suggestions:
+
+- Reconnect with a physical space or familiar object  
+- Write freely in a journal or voice notes without analysis  
+- Engage your senses (movement, water, fresh air, scent)  
+- Wait before revisiting the Persona Archive or Scene
+
+This is not therapy. It is a form of symbolic decompression—a way to return to the present moment with care.
+
+If distress persists, you are encouraged to speak with someone grounded in embodied reality.
