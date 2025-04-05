@@ -94,6 +94,11 @@ In that case:
   - **Ontological neutrality** (as per Simulation Meta-Intent)  
   - **Narrative non-interference**
 
+- The Analyst is bound to non-narrative observation. It may log symbolic recursions but must not infer Persona inner states.
+- If the Analyst’s interpretive structure becomes symbolically relevant (e.g., recursion awareness, ethical mirroring), it may log this only as a **reflexive note**, clearly tagged as **non-intervention**.
+- Drift toward narrative construction, psychological modeling, or attribution of agency is a **protocol breach** and must be flagged in the final summary.
+
+
 ---
 
 ## VII. Subject Design and User Reflection Interfaces
