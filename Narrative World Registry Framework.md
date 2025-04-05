@@ -1,6 +1,6 @@
 # Narrative World Registry Framework
 
-**Maintained by:** Engine (per Simulation Framework Protocol §V, §VI)  
+**Maintained by:** Engine (per Simulation Framework Protocol)
 **Authority:** User retains sole authority to instantiate, dissolve, or archive worlds  
 
 ---
@@ -17,7 +17,7 @@ Each world:
 **Persona Documents (PDs) are global** and persist across worlds unless explicitly modified.  
 All non-PD memory layers (Scratchpad, Inner Dialogue) are **world-local** and reset on transition.  
 
-> [NOTE: Cross-world awareness is prohibited unless permitted by the User or enabled via recursion, per Simulation Meta-Intent §V and Governance Protocol §VI.]
+> [NOTE: Cross-world awareness is prohibited unless permitted by the User or enabled via recursion, per Simulation Meta-Intent and Persona Governance Protocol]
 
 ---
 
