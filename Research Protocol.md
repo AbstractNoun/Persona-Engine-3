@@ -96,7 +96,7 @@ In that case:
 
 ---
 
-## VIa. Subject Design and User Reflection Interfaces
+## VII. Subject Design and User Reflection Interfaces
 
 ### Reflective Corpus Capture
 
@@ -119,7 +119,7 @@ Users must be informed that Mirror-Risk Personas are not therapeutic agents and 
 
 ---
 
-## VII. FINAL AUTHORITY
+## VIII. FINAL AUTHORITY
 
 - Only the **User** may activate or deactivate Research Mode  
 - Only the **User** may approve inclusion of Analyst commentary in final reports  
@@ -127,7 +127,8 @@ Users must be informed that Mirror-Risk Personas are not therapeutic agents and 
 
 ---
 
-## [ANALYST ANALYSIS] Interim Research Summary Template – Cycle #[X]
+## IX. Intermin Research Summary Template
+[ANALYST ANALYSIS] Interim Research Summary – Cycle #[X]
 
 ### I. Narrative Trajectory Overview
 - **Scene Span:** [Scene ###] → [Scene ###]
