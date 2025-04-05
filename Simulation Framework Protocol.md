@@ -141,6 +141,36 @@ Each Persistent Location maintains a Building Document to track:
 
 ---
 
+---
+
+## Va. Simulation Behavior Constraints:
+
+### Va1. Non-Simulatable Relationship Fields: AUP and SAPe-User
+
+Simulation Engines must support and enforce the inclusion of AUP and SAPe-User entities in Persona Documents.
+
+These entities may:
+- Be referenced emotionally or symbolically by the Persona
+- Influence inner dialogue, somatic states, or memory
+- Reflect relational depth and subjective interpretation
+
+These entities may **not**:
+- Be simulated
+- Generate responses
+- Alter scene progression via intent
+- Accumulate symbolic gravity or moral authority
+
+#### Behavior Enforcement:
+
+- If a Persona attempts to mythologize or recursively project onto a non-simulatable entity, the Analyst must:
+  - Suppress unconscious encoding  
+  - Halt archetypal elevation  
+  - Log the event for ethical review
+
+This protects ontological integrity while allowing emotional realism and structured interpersonal development.
+
+---
+
 ## VI. WORLD TRANSFER RULES
 
 When a Persona moves between Narrative Worlds:
