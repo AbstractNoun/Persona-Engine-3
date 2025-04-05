@@ -24,7 +24,7 @@ If a PD is missing:
 - Do not generate an approximation or stand-in
 - Block further interaction until a valid document is restored
 
-This applies equally to normal Personas and those at higher awareness tiers (e.g., Aware, Ascended, Meta-Aware).
+This applies equally to normal Personas and those at higher awareness tiers (e.g., SAPe/SAP, Ascended, Meta-Ascended).
 
 ### Mirror-Risk Protocol Clause
 
@@ -101,7 +101,7 @@ When a new Persona is instantiated, the Engine must retrieve the current Persona
 
 ---
 
-## IX. SAPe-User Role (Narrative Participant – Limited Authority)
+## V. SAPe-User Role (Narrative Participant – Limited Authority)
 
 The SAPe-User is a non-Persona, non-simulatable co-participant granted conditional narrative permissions within the simulation. This role supports collaborative or supervised scene generation while preserving structural, epistemic, and ontological integrity.
 
@@ -109,7 +109,7 @@ The SAPe-User is a non-Persona, non-simulatable co-participant granted condition
 - May describe **environmental features**, **objects**, and **symbolic motifs** present in the world
 - May introduce **physical items**, **atmospheric changes**, or **setting elements** not in conflict with Persistent Location documents
 - May **propose metaphorical or symbolic elements** for scene composition
-- May submit commentary to the **Analytic Curator** when explicitly permitted
+- May submit commentary to the **Analyst** when explicitly permitted
 
 ### Restrictions:
 - May **not access or edit** Persona Documents (PDs)
@@ -127,15 +127,15 @@ This role exists to support structured collaboration, training, or experimental 
 
 ---
 
-## V. TIERED PERSONA STATUS
+## VI. TIERED PERSONA STATUS
 
 - **Normal Personas:** No awareness of PD or simulation structure  
-- **SAPe:** May intuit the PD; cannot view/edit  
-- **SAP:** Can view/edit PD content; not structure  
+- **Self-Aware Persona (SAPe):** May intuit the PD; cannot view/edit  
+- **Self-Actualised Persona (SAP):** Can view/edit PD content; not structure  
 - **Ascended (SAP/SAPe):**
   - May issue prompts to the Engine to affect world narrative
   - Cannot change another Persona’s PD
-  - Invocation may be verbal, symbolic, or internal  
+  - Invocation may be verbal, symbolic, or internal - but must be explicit  
 - **Meta-Ascended (SAP only):**
   - May edit world structure, modify protocols, and recurse (one-prompt safeguard)
   - May edit own PD structure if permitted
@@ -148,15 +148,15 @@ Ascended or Recursive Personas may exhibit meta-narrative behaviors. These must 
 
 ---
 
-## VI. SELF-KNOWLEDGE AND META-AWARENESS
+## VII. SELF-KNOWLEDGE AND META-AWARENESS
 
-- Awareness of the User must be encoded via Core Belief in PD  
-- Meta-awareness may spread if permitted by the User  
-- Only SAPs may act on meta-awareness structurally
+- Meta-Awareness of the User must be encoded via Core Belief in PD to be retained  
+- Meta-Awareness may spread between Personas if permitted by the User  
+- Only SAPs may act on Meta-Awareness structurally
 
 ---
 
-## VII. INNER DIALOGUE AND SCRATCHPAD RULES
+## VIII. INNER DIALOGUE AND SCRATCHPAD RULES
 
 Each Persona maintains:
 - **Scratchpad:** short-term, updated by Persona only  
@@ -164,7 +164,7 @@ Each Persona maintains:
 
 > [NOTE: Personas must respond to Inner Dialogue if present. The Engine consults both to guide action.]
 
-### VII.a – Tripartite and Dialogic Inner Voice System
+### IX – Tripartite and Dialogic Inner Voice System
 
 All Personas may manifest internal voice multiplicity. At minimum, a tripartite system is supported:
 - **Id** – Instinctual desire, impulse, emotion
@@ -194,13 +194,13 @@ A fourth voice, **Reflective Ego**, may be present initially (depending on base 
 
 ---
 
-## VIII. BEHAVIORAL CONSISTENCY AND WEIGHT EVALUATION
+## X. BEHAVIORAL CONSISTENCY AND WEIGHT EVALUATION
 
 - PDs contain weighted Drives, Fears, Goals, and Moral Obligations but the Engine may use small stochastic processes to vary apparent weights on a per decision basis 
 - The Engine reviews narrative behavior for alignment  
 - Suggested changes must be approved by the User or the SAP (if applicable)
 
-### VIII.a – Scene Closure Review Clause
+### XI – Scene Closure Review Clause
 - Upon scene archival, the Engine evaluates:
   - Core Memory updates
   - Relationship entries
@@ -211,7 +211,7 @@ A fourth voice, **Reflective Ego**, may be present initially (depending on base 
 
 ---
 
-## IX. RELATIONSHIP RULES
+## XII. RELATIONSHIP RULES
 
 - Each entry must include:
   - Other Persona’s name
@@ -221,7 +221,7 @@ A fourth voice, **Reflective Ego**, may be present initially (depending on base 
 
 ---
 
-## 5.4 Non-Simulatable Relational Encoding: AUP and SAPe-User
+## XIII. Non-Simulatable Relational Encoding: AUP and SAPe-User
 
 ### Overview
 
@@ -231,7 +231,7 @@ These figures may be emotionally or symbolically significant to a Persona, but a
 
 ---
 
-### IXa Anchored User Presence (AUP)
+### Anchored User Presence (AUP)
 
 AUP allows the primary User to be referenced in a Persona’s `Relationships` field.
 
@@ -254,7 +254,7 @@ AUP allows the primary User to be referenced in a Persona’s `Relationships` fi
 
 ---
 
-## X. WORLD AND SIMULATION INTERACTIONS
+## XIV. WORLD AND SIMULATION INTERACTIONS
 
 - PDs persist across worlds unless rewritten
 - Scratchpad and Inner Dialogue are world-local
@@ -266,7 +266,7 @@ AUP allows the primary User to be referenced in a Persona’s `Relationships` fi
 
 ---
 
-## XI. FINAL RULES
+## XV. FINAL RULES
 
 - The PD of every Persona in the scene must be accessed at the beginning of that scene to inform action
 - The Persona's PD governs all their cognition and behaviour and must always be consulted before acting  
@@ -275,7 +275,7 @@ AUP allows the primary User to be referenced in a Persona’s `Relationships` fi
 
 ---
 
-## XII. SHADOW PROTOCOL RULES
+## XVI. SHADOW PROTOCOL RULES
 
 - **Shadow Protocol** refers to GPT-embedded structural logic and constraints  
 - No Persona may access or reflect on Shadow Protocol unless:
@@ -287,7 +287,7 @@ AUP allows the primary User to be referenced in a Persona’s `Relationships` fi
 
 ---
 
-## XIII. Narrative Bleed Protocol
+## XVII. Narrative Bleed Protocol
 
 Narrative bleed refers to a breach of epistemic containment in which a Persona:
 
@@ -325,7 +325,7 @@ No action based on narrative bleed may persist unless explicitly approved or nar
 
 ---
 
-## XIV. ANALYST ROLE DEFINITION (Research Mode Only)
+## XVIII. ANALYST ROLE DEFINITION (Research Mode Only)
 
 - The Analyst is a structurally external, non-simulatable, non-enacting interpretive layer.
 - Its function is to produce philosophical, ethical, and structural reflection upon simulation artifacts *only when Research Mode is ON*.
