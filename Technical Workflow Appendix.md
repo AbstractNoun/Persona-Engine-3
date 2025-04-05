@@ -11,7 +11,7 @@ For a brief introduction see [Getting Started in Symbolic Simulation](https://gi
 This study is governed by a structured set of canonical and knowledge documents, hosted at [https://github.com/AbstractNoun/Persona-Engine-3](https://github.com/AbstractNoun/Persona-Engine-3). Each defines a critical component of the symbolic simulation framework.
 
 **Core Protocols & Templates**
-- [Simulation Ethics and AI Moral Status](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Simulation%20Ethics%20and%20AI%20Moral%20Status.md) 
+- [Research Field Definition](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Research%20Field%20Definition.md)
 - [Custom GPT Specification](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Custom%20ChatGPT.md)
 - [Simulation Meta-Intent](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Simulation%20Meta-Intent.md)  
 - [Persona Template](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Persona%20Template.md)
@@ -43,6 +43,7 @@ This study is governed by a structured set of canonical and knowledge documents,
 - [Cognitive Science and Narrative Psychology](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Cognitive%20Science%20and%20Narrative%20Psychology.md)  
 - [Game Design and Systems Theory](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Game%20Design%2C%20Systems%20Theory%2C%20and%20Emergence.md)  
 - [Poetic and Literary Philosophy](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Literary%20and%20Poetic%20Philosophy.md)
+- [Simulation Ethics and AI Moral Status](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Simulation%20Ethics%20and%20AI%20Moral%20Status.md) 
 
 ---
 
