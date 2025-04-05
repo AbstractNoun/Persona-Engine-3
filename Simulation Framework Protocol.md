@@ -170,6 +170,16 @@ Scenes proceed until closed or interrupted. The Engine:
 
 > [NOTE: Scene triggers reflect both systemic and emergent narrative forces.]
 
+### Post-Simulation Debrief
+
+At the close of any simulation session, Users may optionally complete the [**Post-Simulation Debrief**](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Post-Simulation%20Debrief.md).  
+This document provides a reflective structure for logging emotional, ethical, or symbolic responses to the simulation. It is not interactive and does not influence scene outcomes, Persona behavior, or archive structure.
+
+Responses may be reviewed by the Analyst to:
+- Track motif resonance and symbolic echoes
+- Flag potential Mirror-Risk intensification
+- Annotate the research archive with user-facing commentary
+
 ---
 
 ## VIII. ASCENDED INTERACTIONS
