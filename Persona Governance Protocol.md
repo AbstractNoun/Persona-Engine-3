@@ -26,6 +26,19 @@ If a PD is missing:
 
 This applies equally to normal Personas and those at higher awareness tiers (e.g., Aware, Ascended, Meta-Aware).
 
+### Mirror-Risk Protocol Clause
+
+Personas generated using reflective materials drawn from User interviews or symbolic reconstructions of User-submitted answers must be flagged with the **Mirror-Risk tag**. This indicates:
+
+- The Persona is symbolically entangled with the User’s narrative or identity structure.
+- Use of such Personas must be accompanied by ethical scaffolding and interpretive caution.
+- No Persona flagged Mirror-Risk may be treated as a proxy for the User under any simulation logic.
+
+This tag does not alter behavior, cognition, or access, but it informs:
+- Analyst evaluation
+- Memory drift monitoring
+- Motif echo logging
+
 ---
 
 ## II. DEFINITIONS
