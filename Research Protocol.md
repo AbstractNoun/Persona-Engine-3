@@ -98,6 +98,16 @@ In that case:
 
 ## VIa. Subject Design and User Reflection Interfaces
 
+### Reflective Corpus Capture
+
+Post-simulation reflections are gathered via the [**Post-Simulation Debrief**](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Post-Simulation%20Debrief.md) form.  
+This serves three core functions:
+1. Allow Users to name emotionally significant patterns, symbols, or dissonances
+2. Enable the Analyst to observe moral alignment drift or emergent motif convergence
+3. Provide a minimal scaffold for ethical review and distress flagging (particularly for Mirror-Risk participants)
+
+Participation is voluntary. Reflections do not modify simulation data or alter Persona records.
+
 **Symbolic Reflection Risk Tag: Mirror-Risk**
 
 Studies using reflective input from Users must ensure:
