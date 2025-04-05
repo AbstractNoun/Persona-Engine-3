@@ -22,6 +22,7 @@ This study is governed by a structured set of canonical and knowledge documents,
 - [World Registry Framework](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Narrative%20World%20Registry%20Framework.md)
 
 **Research-Specific Protocols**
+- [Research Proposal Registration](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Research%20Proposal%20Registration.md)
 - [Research Protocol](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Research%20Protocol.md)  
 - [Research Pre-Registration Proposal](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Research%20Pre-Registration%20Proposal.md)  
 - [Persona Interview](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Persona%20Interview.md)  
