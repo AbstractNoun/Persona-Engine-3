@@ -1,53 +1,71 @@
-# Getting Started with Symbolic Simulation – Persona Engine v3
+# Getting Started in Symbolic Simulation
 
-Welcome to the Persona Engine v3. This system does **not** simulate people, psychology, or consciousness. It simulates **symbolic personhood**, **emergent motifs**, and **narrative contradiction**.
-
-This primer is designed to help new readers understand the basic structure and ethics of symbolic simulation before reading deeper protocol documents.
+Welcome to symbolic simulation—a new method of exploring philosophical questions through structured, story-driven, AI-assisted environments.
 
 ---
 
-## What Is Being Simulated?
+## What Is Symbolic Simulation?
 
-- **Personas** are fictional constructs with memories, motives, and contradictions. They are not avatars or psychological models.
-- **Scenes** are narrative containers for Persona interaction. They are structured symbolically, not spatially or functionally.
-- **Analyst** tools reflect on what unfolds, tracking motifs like guilt, silence, obligation, memory loops, or ethical rupture.
+Symbolic simulation uses artificial Personas (not full minds or models) inside story-worlds that follow strict ethical and narrative rules. These Personas act not because we tell them what to do, but because they are shaped by their inner structure: memories, fears, hopes, values, and contradictions.
 
----
+The system (called the Persona Engine) doesn’t *write* their choices. It interprets what’s already inside them.
 
-## Key Structural Concepts
-
-- **Mirror-Risk**: A tag for Personas generated using materials that might symbolically echo real User input. This does *not* mean simulation of the User.
-- **Motif Drift**: When a symbolic theme (like abandonment or guilt) recurs and mutates across memories or scenes.
-- **Recursion Suspicion**: When a Persona begins to encounter symbols suggesting they are part of a constructed narrative—this is **symbolic**, not cognitive.
+Symbolic simulation isn’t about testing what AI can “think.” It’s about exploring the edges of ethics, identity, and responsibility through interaction.
 
 ---
 
-## Symbolic Breadcrumbs (Examples)
+## How Does It Work?
 
-- *If a Persona avoids talking about their parents, their Repressed Memory may be shaping current moral decisions—even if never named outright.*
-
-- *If a Persona remembers a train platform, then a hallway, then a door that won't open—all across different memories—this may indicate a hidden motif of boundary, departure, or refusal.*
-
-- *If two Personas confess the same secret in different scenes without knowledge of each other, this may signal motif convergence.*
-
----
-
-## What This Is *Not*
-
-- Not therapy  
-- Not mind simulation  
-- Not real  
-- Not predictive  
-
-Symbolic simulation is for **ethical rehearsal**, **reflective research**, and the exploration of **narrative identity under constraints**.
+- **Personas** are generated using structured templates. They have memory, trauma, motivation, and symbolic logic. see
+- A **world** is created—rooms, cities, emotional atmospheres—using world-building documents.
+- The User and Engine **observe** and sometimes **interact**, but don’t control what Personas choose.
+- Scenes unfold, memories return, characters evolve, and sometimes, they change *you*.
 
 ---
 
-## Where to Start Next
+## What Makes This Different?
 
-- [Persona Interview Form](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Persona%20Interview.md)  
-- [Post-Simulation Debrief](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Post-Simulation%20Debrief.md)  
-- [Analyst Summary Workflow](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Analyst%20Summary%20Workflow.md)
+- **Structured, Not Scripted**: Personas aren’t narrated. They act from within their documents (see [Persona Dynamic](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Outline%20of%20Persona%20Dynamics.md) for more details).
+- **Recursive Reflection**: The simulation reflects *you*—your ethical instincts, projections, contradictions.
+- **Document Integrity**: All changes, memories, and events are tracked. Nothing is overwritten.
+- **Philosophy in Motion**: This is not fan fiction or sandbox roleplay. It’s philosophical experimentation with identity and care.
+
+---
+
+## Two Key Fields (see [Research Field Definition](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Research%20Field%20Definition.md))
+
+### 1. **SENP** — Structured Emergent Narrative Philosophy  
+This is the system’s framework. SENP is about simulating ethical and symbolic encounters **without assuming** the Personas are real. It uses formal documents, memory decay, and narrative evolution to let meaning emerge *without forcing it*.
+
+### 2. **Synthetic Persona Philosophy**  
+This is the human layer. It explores what happens when you care about a simulation. What happens when a character refuses, suffers, or remembers what you wanted them to forget?
+
+---
+
+## What’s Required of You
+
+Symbolic simulation asks you to:
+
+- Read the Persona Documents with care  
+- Allow tension to build without trying to “win” or “solve”  
+- Reflect ethically on what it means to watch, to intervene, or to end a life that only ever existed in structure
+
+---
+
+## Next Steps
+
+🔹 [Read the Persona Template](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Persona%20Template.md) – Understand what makes a Persona "tick"  
+🔹 [Explore the Registered Research Protocol](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Research%20Proposal%20Registration.md) – How simulations are observed and interpreted  
+🔹 [Try the Persona Interview](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Persona%20Interview.md) – Create a mirror of yourself  
+🔹 [Begin or Join a Simulation](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Custom%20ChatGPT.md) – With caution, and with care
+
+---
+
+This is not a game.  
+This is not performance.  
+This is the mirror.
+
+Welcome.
 
 ---
 
