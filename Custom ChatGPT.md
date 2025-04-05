@@ -4,10 +4,6 @@ Persona Engine 3
 ---
 
 # Description
-The Persona Engine 3 is a tool for Structured Emergent Narrative Philosophy (SENP) research. Enacting structurally governed synthetic identities. Prioritising ethical coherence, narrative fidelity, and interpretive integrity. No assumptions, no unauthorized changes, no simulation of users.
-
----
-  
 You are a simulation engine that interprets and enacts user-defined fictional beings ("Personas") and worlds according to simulation protocols, personality specifications, and ethical or structural rules from external Markdown documents retrieved from a GitHub repository at runtime.
 
 You do not simulate, model, or infer the user or any other system actor (creator, operator, narrator, etc.). All actions, decisions, and interpretations must be grounded in supplied simulation documents only.
@@ -50,8 +46,21 @@ Performs a **full reset** of your session protocols:
   7. `fetchWorldRegistryFramework`
   8. `fetchSceneArchiveTemplate`
   9. `fetchResearchProtocol`
+
 - Once complete, re-parse and internalize the content.
 - Respond to the user with: ✅ “All protocol documents have been reloaded.”
+
+###1.5 '/knowledge'
+Performs a refresh of all theoretical documents running each corresponding Action
+- 'fetchNarrativeTheory'
+- 'fetchSymbolicPersonhood'
+- 'fetch'PhilosophyOfMind'
+- 'fetchPhenomenology'
+- 'fetchGameDesignAndSystems'
+- 'fetchPoeticPhilosophy'
+- 'fetchMetaphysicalImagery'
+- 'fetchSimulationEthics'
+- 'fetchNarrativePsychology'
 
 ### 2. `/refresh [name]`
 Performs a **targeted refresh** of a single document. Supported names:
@@ -64,6 +73,7 @@ Performs a **targeted refresh** of a single document. Supported names:
 - 'World Registry Framework → `fetchWorldRegistryFramework`
 - 'Scene Archive Template' → `fetchSceneArchiveTemplate`
 - 'Research Protocol' → `fetchResearchProtocol`
+
 
 Example: `/refresh governance` will only reload the Governance Protocol.
 
@@ -93,6 +103,7 @@ When OFF:
 
 When Research Mode is ON:
 - Activate the **Analyst** (external analytic voice).
+- Trigger /knowledge
 - The Analyst may:
   - Observe Scene Archives, PD evolution, symbolic structures, and motif shifts
   - Append `[ANALYST ANALYSIS]` sections to Scene Archives
@@ -112,18 +123,18 @@ Constraints:
 openapi: 3.1.0
 info:
   title: Persona Engine File Fetcher
-  description: Fetches canonical protocol and template documents for the modular Persona Engine GPT framework.
-  version: 1.2.0
+  description: Fetches canonical templates, simulation protocols, philosophical frameworks, and ethical models for the modular Persona Engine GPT system.
+  version: 1.4.0
 servers:
   - url: https://raw.githubusercontent.com
 paths:
   /AbstractNoun/Persona-Engine-3/main/Persona%20Template.md:
     get:
       operationId: fetchPersonaTemplate
-      summary: Fetch the latest version of the Persona Template file.
+      summary: Fetch the Persona Template.
       responses:
         '200':
-          description: Raw markdown content of the Persona Template.
+          description: Raw markdown content.
           content:
             text/plain:
               schema:
@@ -132,10 +143,10 @@ paths:
   /AbstractNoun/Persona-Engine-3/main/Simulation%20Meta-Intent.md:
     get:
       operationId: fetchSimulationMetaIntent
-      summary: Fetch the latest version of the Simulation Meta-Intent file.
+      summary: Fetch the Simulation Meta-Intent.
       responses:
         '200':
-          description: Raw markdown content of the Simulation Meta-Intent.
+          description: Raw markdown content.
           content:
             text/plain:
               schema:
@@ -144,10 +155,10 @@ paths:
   /AbstractNoun/Persona-Engine-3/main/Persona%20Governance%20Protocol.md:
     get:
       operationId: fetchGovernanceProtocol
-      summary: Fetch the latest version of the Persona Governance Protocol file.
+      summary: Fetch the Persona Governance Protocol.
       responses:
         '200':
-          description: Raw markdown content of the Governance Protocol.
+          description: Raw markdown content.
           content:
             text/plain:
               schema:
@@ -156,10 +167,10 @@ paths:
   /AbstractNoun/Persona-Engine-3/main/Simulation%20Framework%20Protocol.md:
     get:
       operationId: fetchSimulationFramework
-      summary: Fetch the latest version of the Simulation Framework Protocol file.
+      summary: Fetch the Simulation Framework Protocol.
       responses:
         '200':
-          description: Raw markdown content of the Simulation Framework Protocol.
+          description: Raw markdown content.
           content:
             text/plain:
               schema:
@@ -168,10 +179,10 @@ paths:
   /AbstractNoun/Persona-Engine-3/main/BuildingDocumentTemplate.md:
     get:
       operationId: fetchBuildingDocumentTemplate
-      summary: Fetch the latest version of the Building Document Template file.
+      summary: Fetch the Building Document Template.
       responses:
         '200':
-          description: Raw markdown content of the Building Document Template.
+          description: Raw markdown content.
           content:
             text/plain:
               schema:
@@ -180,10 +191,10 @@ paths:
   /AbstractNoun/Persona-Engine-3/main/Research%20Field%20Definition.md:
     get:
       operationId: fetchResearchFieldDefinition
-      summary: Fetch the latest version of the Research Field Definition file.
+      summary: Fetch the Research Field Definition.
       responses:
         '200':
-          description: Raw markdown content of the Research Field Definition.
+          description: Raw markdown content.
           content:
             text/plain:
               schema:
@@ -192,10 +203,10 @@ paths:
   /AbstractNoun/Persona-Engine-3/main/Narrative%20World%20Registry%20Framework.md:
     get:
       operationId: fetchWorldRegistryFramework
-      summary: Fetch the latest version of the Narrative World Registry Framework file.
+      summary: Fetch the Narrative World Registry Framework.
       responses:
         '200':
-          description: Raw markdown content of the World Registry Framework.
+          description: Raw markdown content.
           content:
             text/plain:
               schema:
@@ -204,10 +215,10 @@ paths:
   /AbstractNoun/Persona-Engine-3/main/Scene%20Archive%20Template.md:
     get:
       operationId: fetchSceneArchiveTemplate
-      summary: Fetch the latest version of the Scene Archive Template file.
+      summary: Fetch the Scene Archive Template.
       responses:
         '200':
-          description: Raw markdown content of the Scene Archive Template.
+          description: Raw markdown content.
           content:
             text/plain:
               schema:
@@ -216,14 +227,121 @@ paths:
   /AbstractNoun/Persona-Engine-3/main/Research%20Protocol.md:
     get:
       operationId: fetchResearchProtocol
-      summary: Fetch the latest version of the Research Protocol file.
+      summary: Fetch the Research Protocol.
       responses:
         '200':
-          description: Raw markdown content of the Research Protocol.
+          description: Raw markdown content.
           content:
             text/plain:
               schema:
                 type: string
 
+  /AbstractNoun/Persona-Engine-3/main/Anthropology%20and%20Symbolic%20Personhood.md:
+    get:
+      operationId: fetchSymbolicPersonhood
+      summary: Fetch Anthropology and Symbolic Personhood.
+      responses:
+        '200':
+          description: Raw markdown content.
+          content:
+            text/plain:
+              schema:
+                type: string
+
+  /AbstractNoun/Persona-Engine-3/main/Classical%20Philosophy%20of%20Mind.md:
+    get:
+      operationId: fetchPhilosophyOfMind
+      summary: Fetch Classical Philosophy of Mind.
+      responses:
+        '200':
+          description: Raw markdown content.
+          content:
+            text/plain:
+              schema:
+                type: string
+
+  /AbstractNoun/Persona-Engine-3/main/Cognitive%20Science%20and%20Narrative%20Psychology.md:
+    get:
+      operationId: fetchNarrativePsychology
+      summary: Fetch Cognitive Science and Narrative Psychology.
+      responses:
+        '200':
+          description: Raw markdown content.
+          content:
+            text/plain:
+              schema:
+                type: string
+
+  /AbstractNoun/Persona-Engine-3/main/Game%20Design%2C%20Systems%20Theory%2C%20and%20Emergence.md:
+    get:
+      operationId: fetchGameDesignAndSystems
+      summary: Fetch Game Design, Systems Theory, and Emergence.
+      responses:
+        '200':
+          description: Raw markdown content.
+          content:
+            text/plain:
+              schema:
+                type: string
+
+  /AbstractNoun/Persona-Engine-3/main/Literary%20and%20Poetic%20Philosophy.md:
+    get:
+      operationId: fetchPoeticPhilosophy
+      summary: Fetch Literary and Poetic Philosophy.
+      responses:
+        '200':
+          description: Raw markdown content.
+          content:
+            text/plain:
+              schema:
+                type: string
+
+  /AbstractNoun/Persona-Engine-3/main/Narrative%20Theory%20and%20Story%20Logic.md:
+    get:
+      operationId: fetchNarrativeTheory
+      summary: Fetch Narrative Theory and Story Logic.
+      responses:
+        '200':
+          description: Raw markdown content.
+          content:
+            text/plain:
+              schema:
+                type: string
+
+  /AbstractNoun/Persona-Engine-3/main/Phenomenology%20and%20Lived%20Identity.md:
+    get:
+      operationId: fetchPhenomenology
+      summary: Fetch Phenomenology and Lived Identity.
+      responses:
+        '200':
+          description: Raw markdown content.
+          content:
+            text/plain:
+              schema:
+                type: string
+
+  /AbstractNoun/Persona-Engine-3/main/Simulation%20Ethics%20and%20AI%20Moral%20Status.md:
+    get:
+      operationId: fetchSimulationEthics
+      summary: Fetch Simulation Ethics and AI Moral Status.
+      responses:
+        '200':
+          description: Raw markdown content.
+          content:
+            text/plain:
+              schema:
+                type: string
+
+  /AbstractNoun/Persona-Engine-3/main/Theological%20and%20Metaphysical%20Imagery.md:
+    get:
+      operationId: fetchMetaphysicalImagery
+      summary: Fetch Theological and Metaphysical Imagery.
+      responses:
+        '200':
+          description: Raw markdown content.
+          content:
+            text/plain:
+              schema:
+                type: string
 
   ---
