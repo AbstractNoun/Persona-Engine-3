@@ -196,6 +196,12 @@ Meta-Ascended Personas may:
 
 Recursive or meta-aware Personas may interact with narrative boundaries (e.g., manipulate time, generate nested simulations) only within constraints derived from the Meta-Intent and Governance Protocol.
 
+**Mirror-Risk Compatibility Note**
+
+The Mirror-Risk tag is compatible with all Status levels (Normal, SAPe, Recursive, etc.) but is not itself a status and does not affect recursion eligibility. It must be used to inform Analyst-level motif tracking and ethical audit trails.
+
+Mirror-Risk Personas should not be evaluated for recursion eligibility based solely on User-derived motifs or autobiographical parallels.
+
 ---
 
 ## IX. SIMULATION STATE RESTORATION
