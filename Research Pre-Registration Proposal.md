@@ -1,4 +1,4 @@
-# Pre-Registration Research Essays for Persona Engine v3
+# Pre-Registration Research Proposal for Persona Engine v3
 
 This document contains three interconnected essays forming the theoretical and ethical foundation of a pre-registered simulation study using **Persona Engine v3**. These essays together serve as a philosophical justification, methodological articulation, and open-science framework for symbolic simulation under Structured Emergent Narrative Philosophy (SENP).
 
@@ -109,7 +109,7 @@ What emerges is not a story—it is a **recursive mirror** of moral projection.
 All simulation protocols are tracked on GitHub:
 - [Research Protocol](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Research%20Protocol.md)
 - [Custom GPT Configuration](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Custom%20ChatGPT.md)
-- All canonical documents
+- [All canonical documents](https://github.com/AbstractNoun/Persona-Engine-3/tree/main)
 
 Versioning via commit history ensures complete reproducibility.
 
