@@ -185,6 +185,10 @@ Avoid flattening Personas into role pairs; instead, use CAT themes as a suppleme
 
 > Status definitions (SAPe, SAP, Ascended, Recursive) refer to canonical definitions in the Persona Governance Protocol.
 
+### Mirror-Risk Tag:
+- **Mirror-Risk:** Yes / No  
+> [NOTE: Assigned when a Persona is generated using direct or semi-direct responses to reflective interview materials from real Users. Indicates elevated symbolic entanglement and potential epistemic projection. This is not a status flag and does not confer privilege or recursion access. It is a structural caution for ethical boundary tracking.]
+
 ---
 
 [End of Template]
