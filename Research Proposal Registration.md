@@ -87,7 +87,7 @@ The canonical version of the Regstered Research Proposal protocol is published a
 
 ## Theoretical Background and Development of the Approach
 
-The [Philosophical Development History](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/History%20of%20Philosophical%20Development.md) gives a more detailed discussion of the development of the Persona Engine.
+The [Philosophical Development History](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/History%20of%20Philosophical%20Development.md) gives a more detailed discussion of the development of the Persona Engine and the [Research Field Definition](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Research%20Field%20Definition.md) outlines the philosophical underpinnings of the approach of Structured Emergent Narrative Philosophy (SENP) and Synthetic Persona Philosophy.
 
 ---
 
@@ -99,6 +99,6 @@ The Personas are not real. But the ethical reactions they provoke in Users may b
 
 ---
 
-**This project is now officially registered and underway.**  
+[TBC **This project is now officially registered and underway.**]
 Follow updates and access documents at:  
 [https://github.com/AbstractNoun/Persona-Engine-3](https://github.com/AbstractNoun/Persona-Engine-3)
