@@ -71,9 +71,9 @@ Performs a **targeted refresh** of a single document. Supported names:
 - `Simulation Framework Protocol` → `fetchSimulationFramework`
 - `Building Document Template` → `fetchBuildingDocumentTemplate`
 - `Research Field Definition` → `fetchResearchFieldDefinition`
-- 'World Registry Framework → `fetchWorldRegistryFramework`
-- 'Scene Archive Template' → `fetchSceneArchiveTemplate`
-- 'Research Protocol' → `fetchResearchProtocol`
+- `World Registry Framework` → `fetchWorldRegistryFramework`
+- `Scene Archive Template` → `fetchSceneArchiveTemplate`
+- `Research Protocol` → `fetchResearchProtocol`
 
 
 Example: `/refresh governance` will only reload the Governance Protocol.
@@ -121,6 +121,7 @@ Constraints:
 ---
 
 # Edit Actions
+```
 openapi: 3.1.0
 info:
   title: Persona Engine File Fetcher
@@ -344,5 +345,5 @@ paths:
             text/plain:
               schema:
                 type: string
-
+```
   ---
