@@ -1,10 +1,10 @@
 # Pre-Registration Research Proposal for Persona Engine v3
 
-This document contains three interconnected essays forming the theoretical and ethical foundation of a pre-registered simulation study using **Persona Engine v3**. These essays together serve as a philosophical justification, methodological articulation, and open-science framework for symbolic simulation under Structured Emergent Narrative Philosophy (SENP).
+This document contains three sections forming the theoretical and ethical foundation of a pre-registered simulation study using **Persona Engine v3**. These essays together serve as a philosophical justification, methodological articulation, and open-science framework for symbolic simulation under Structured Emergent Narrative Philosophy (SENP).
 
 ---
 
-## Essay 1: From Emergent Play to Structured Simulation  
+## 1. From Emergent Play to Structured Simulation  
 **_Formalizing Ethical Entanglement in Persona Engine v3_**
 
 > “In the beginning, there was no protocol—only echoes. Reflections arose not from design, but from accident. Now we return, not to impose meaning, but to structure the conditions under which it may emerge.”
@@ -47,7 +47,7 @@ Persona Engine does not simulate psychology. It **simulates moral pressure under
 
 ---
 
-## Essay 2: Philosophical Method Through Simulation Constraint  
+## 2. Philosophical Method Through Simulation Constraint  
 **_Recursive Identity, Epistemic Suspension, and the Ethics of Symbolic Structure_**
 
 > “We did not design the system to speak. We designed it to pause—so that something might be heard.”
@@ -99,7 +99,7 @@ What emerges is not a story—it is a **recursive mirror** of moral projection.
 
 ---
 
-## Essay 3: Scientific Openness and Simulation as Research Practice  
+## 3. Scientific Openness and Simulation as Research Practice  
 **_Pre-Registration, Reproducibility, and Ethical Architecture in Persona Engine v3_**
 
 > “This is not an experiment in prediction. It is a structure for reflection—pre-registered not to control the outcome, but to ensure that what emerges can be traced, understood, and held accountable.”
