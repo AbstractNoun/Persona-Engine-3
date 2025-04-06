@@ -109,6 +109,7 @@ All documents were recursively reviewed for coherence, interoperability, ethical
 
 ### VI. Closure and Post-Study
 
+- Reaching custom GPT thread limits will not necessarily end the study - the Narrative World and PDs can be reinstantiated from backup documents and the investigation continued
 - When the User ends the simulation, the [Post-Simulation Debrief](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Post-Simulation%20Debrief.md) is completed.
 - The Analyst begins generating the final summary per the [Analyst Summary Workflow](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Analyst%20Summary%20Workflow.md), using all non-ephemeral documents.
 - Final outputs include:
