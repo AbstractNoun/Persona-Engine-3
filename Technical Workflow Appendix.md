@@ -66,7 +66,7 @@ All documents were recursively reviewed for coherence, interoperability, ethical
 - 'Registration' of the Research Proposal is performed via Medium article (link TBC)
 - Knowledge base is refreshed; Research Mode is activated.
 - Analyst is initialized but remains silent until prompted.
-- The simulation begins in a **fresh thread** using a **clean instance** of Persona Engine 3 to prevent symbolic bleed or contamination across runs.
+- The simulation begins in a **fresh thread** using a **clean instance** of Persona Engine 3 in ChatGPT 4 to reduce symbolic bleed or contamination across runs.
 
 ---
 
