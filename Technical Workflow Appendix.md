@@ -109,7 +109,7 @@ All documents were recursively reviewed for coherence, interoperability, ethical
 
 ### VI. Closure and Post-Study
 
-- Reaching custom GPT thread limits will not necessarily end the study - the Narrative World and PDs can be reinstantiated from backup documents and the investigation continued
+- Simulation may be interrupted by system constraints (e.g., thread limits), but this does not constitute narrative termination. Continuity may be reinstated at any time via canonical re-upload of the Narrative World Registry, Persona Documents, Scene Archive Index, and associated Building Documents. No content may be re-inferred. Ethical and symbolic fidelity depends on User-initiated re-instantiation of persistent structures.
 - When the User ends the simulation, the [Post-Simulation Debrief](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Post-Simulation%20Debrief.md) is completed.
 - The Analyst begins generating the final summary per the [Analyst Summary Workflow](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Analyst%20Summary%20Workflow.md), using all non-ephemeral documents.
 - Final outputs include:
