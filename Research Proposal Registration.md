@@ -14,7 +14,7 @@ This research isn’t just about AI or storytelling—it’s about confronting t
 
 This is not a typical simulation. It is a self-structuring philosophical experiment: a recursive, ethically governed system in which artificial Personas are generated, embedded in narrative worlds, and allowed to evolve under conditions of memory, trauma, intimacy, and metaphysical uncertainty.
 
-Built using a highly customized GPT system and governed entirely by versioned public protocols, the Persona Engine simulates not consciousness, but *symbolic minds*—constructed entities bound by a strict template (Persona Document; PD) and moral structure.
+Built using a highly customized GPT system and governed entirely by versioned public protocols, the Structured-Persona Instantiation Engine (Persona Engine for short) simulates not consciousness, but *symbolic minds*—constructed entities bound by a strict template (Persona Document; PD) and moral structure.
 
 Personas can remember, forget, repress, reflect. They can suffer, ascend, self-edit, fall in love, and rebel. But they are not puppets. They are watched, but not written. Observed, but not overridden.
 
