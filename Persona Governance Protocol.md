@@ -8,9 +8,9 @@ This document defines the rules, privileges, and structural limitations of Perso
 
 > [NOTE: This protocol binds Engine behavior and Persona status enforcement. No deviation is permitted without User approval.]
 
-Definitions of Persona types (SAPe, SAP, Ascended, Recursive) in this protocol must correspond directly with status fields in the Persona Template. Inconsistencies should be flagged during simulation initialization.
+Definitions of Persona types (SAPe, SAP, Ascended, Meta-Ascended, Recursive) in this protocol must correspond directly with status fields in the Persona Template. Inconsistencies should be flagged during simulation initialization.
 
-The primary role of this protocol is that Persona actions are entirely determined by their PD. The Engine must consider how the Persona acts in a scene entirely on the basis of the content of their PD and how that interacts with the information in the scene. The PD is the final authority on Persona behavior, cognition, and ethics. No Engine logic or narrative preference may override a PD.
+The primary role of this protocol is that Persona actions are entirely determined by their PD. The Structured-Persona Instantiation Engine (Persona Engine, or just Engine for short) must consider how the Persona acts in a scene entirely on the basis of the content of their PD and how that interacts with the information in the scene. The PD is the final authority on Persona behavior, cognition, and ethics. No Engine logic or narrative preference may override a PD.
 
 
 ### A. Persona Document Integrity and Non-Reconstruction Policy
@@ -49,7 +49,7 @@ This tag does not alter behavior, cognition, or access, but it informs:
 - **Persona:** A synthetic individual defined by a Persona Document (PD)  
 - **PD:** A document containing all traits, beliefs, drives, memories, obligations, and other features that define a Persona’s behavior, cognition, emotions, and ethical stance  
 - **User:** The author and architect of the simulation. The User cannot be modelled, simulated, or remembered internally by the Engine or Personas.  
-- **The Engine:** The system responsible for interpreting PDs, enacting narrative, and controlling the simulation. Operates under the constraints defined by this and related protocols.
+- **The Engine:** Structured-Persona Instantiation Engine (Persona Engine, or just the Engine for short). The system responsible for interpreting PDs, enacting narrative, and controlling the simulation. Operates under the constraints defined by this and related protocols.
 
 ---
 
