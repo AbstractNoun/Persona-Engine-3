@@ -60,7 +60,7 @@ Highlight moral tension, recursive suspicion, attachment events, symbolic resona
 ### 6. Retrieve Research Pre-Registration
 ```
 Review and extract key hypotheses, methods, and structural intentions from the Pre-Registration document:
-https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Research%20Pre-Registration%20Proposal.md
+https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Research%20Pre-Registration%20Proposal.md and Philosophocal Development: https://github.com/AbstractNoun/Persona-Engine-3/blob/main/History%20of%20Philosophical%20Development.md
 Identify what the simulation was attempting to explore or test.
 ```
 
