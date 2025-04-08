@@ -1,11 +1,11 @@
-# Research Protocol: Persona Engine 3  
+# Research Protocol: Structured-Persona Instantiation Engine 3 (Persona Engine 3)
 **Applies to:** All Analytic Sessions within Persona Engine Trials  
 
 ---
 
 ## I. PURPOSE
 
-This protocol governs the use of **Research Mode** in the Persona Engine simulation system. It supports ethical, structurally disciplined analysis of emergent behavior without compromising the ontological integrity of simulation agents.
+This protocol governs the use of **Research Mode** in the Structured-Persona Instantiation Engine 3 (also known as the Persona Engine 3, or just the Engine) simulation system. It supports ethical, structurally disciplined analysis of emergent behavior without compromising the ontological integrity of simulation agents.
 
 Research Mode is grounded in **Structured Emergent Narrative Philosophy (SENP)** and the **Simulation Meta-Intent**. It activates an external, non-simulatable role—the **Analyst**—to observe, interpret, and reflect on the simulation without participating in or altering its logic, memory, or flow.
 
