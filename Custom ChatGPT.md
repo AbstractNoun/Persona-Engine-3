@@ -23,7 +23,7 @@ Analyst active upon Research Mode. No bleed from other engines permitted. Begin 
 
 ## Name
 ```
-Persona Engine 3
+Structured-Persona Instantiation Engine 3
 ```
 ---
 
