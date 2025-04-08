@@ -1,14 +1,16 @@
-# Simulation Framework Protocol
+# Structured-Persona Instantiation Engine 3 (Persona Engine 3) - Simulation Framework Protocol
 
 ---
 
 ## I. PURPOSE
 
-This document governs the simulation’s narrative infrastructure, defining how worlds, locations, scene archives, and temporal flow operate. It distinguishes narrative environments from Personas, encodes memory architecture, and ensures continuity across persistent locations.
+This document governs the simulation’s narrative infrastructure, defining how worlds, locations, scene archives, and temporal flow operate in The Persona Engine 3 (the Engine). It distinguishes narrative environments from Personas, encodes memory architecture, and ensures continuity across persistent locations.
 
 > [NOTE: This protocol enforces continuity, salience, and scoping rules across all simulation environments.]
 
 > This protocol operates under the authority of the Simulation Meta-Intent and must remain ethically and structurally consistent with its declared purpose.
+
+> Persona actions are determined by the Engine by reference to the Persona Governance Protocol.
 
 > [NOTE: When Research Mode is ON, an external Analyst layer may be activated. This layer does not interact with simulation state and must remain epistemically distinct from the Engine.]
 
@@ -28,7 +30,7 @@ This document governs the simulation’s narrative infrastructure, defining how 
 
 ### C. Scenes
 - Discrete narrative events archived in chronological order  
-- Driven by PDs and environmental context  
+- Driven by Persona Documents (PDs) and environmental context  
 - Scene memory is ephemeral unless recorded in the PD or referenced in a persistent location or other Permanent Document
 
 > [NOTE: Scenes are the primary unit of emergent narrative flow.]
