@@ -22,7 +22,7 @@ This document governs the simulation’s narrative infrastructure, defining how 
 - Scene memories and persistent experiences are localized within them
 
 ### B. Persistent Locations
-- Spaces like the Macallister Building that exist within Narrative Worlds  
+- Persistent spaces (not just buildings) that exist within Narrative Worlds  
 - Maintain specific documents tracking spatial continuity, rooms, tenants, and changes  
 - May contain Personas, off-screen characters, and environmental effects
 
