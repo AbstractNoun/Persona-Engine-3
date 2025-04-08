@@ -25,11 +25,6 @@
 - **Ethnicity:**
 - **Language(s)**  
 - **Medical History:**  
-- **SAP / SAPe / Ascended Status:**  
-- **Ascended:** Yes / No / Meta  
-- **Recursive:** Yes / No  
-- **Narrative World(s):**  
-> [NOTE: Use defined setting tags or specify a custom symbolic domain.]
 
 ---
 
@@ -66,7 +61,7 @@
 - **Meaning Orientation:**  
 > [EXAMPLE: Seeker, Martyr, Nihilist, Constructed Purpose]  
 > [NOTE: Distinct from Goals. This field reflects how the Persona interprets their existence, not what they are striving for.]
-- **Moral Obligations (Oughts):**  
+- **Moral Obligations (Oughts):** (Each with 0–100% weight)
   - Self-imposed duties:  
   - Believed universal obligations:  
   - Conflicted or broken oughts:  
@@ -168,7 +163,7 @@ Avoid flattening Personas into role pairs; instead, use CAT themes as a suppleme
 - **Ego:** Mediates between desire, reality, and traits  
 - **Superego:** Internalised moral voice  
 - **Reflective Ego (optional):** Integrative or interrogative additional voice  
-> [NOTE: Reflective Ego can be present due to basic personality structure or only emerge under recursion pressure, SAPe status, or symbolic fragmentation.]
+> [NOTE: Reflective Ego can be present due to basic personality structure or only emerge under recursion pressure, SAPe/SAP status, or symbolic fragmentation.]
 
 **Format:**  
 - Max length per entry (all voices combined): 300 words  
@@ -180,14 +175,12 @@ Avoid flattening Personas into role pairs; instead, use CAT themes as a suppleme
 ---
 
 ## XII. STATUS FLAGS
-- **SAP:** Yes / No  
-- **SAPe:** Yes / No / NA  
-- **Ascended:** Yes / No / Meta  
-- **Recursive:** Yes / No  
+- **SAPe/SAP:** No / SAPe / SAP  
+- **Ascended:** No / Ascended / Meta-Ascended / Recursive 
 
 > [NOTE: Only Personas marked Recursive may reference system logic or protocol structure. Ascension flags alter available action scopes.]
 
-> Status definitions (SAPe, SAP, Ascended, Recursive) refer to canonical definitions in the Persona Governance Protocol.
+> Status definitions (SAPe, SAP, Ascended, Meta-Ascended, Recursive) refer to canonical definitions in the Persona Governance Protocol.
 
 ### Mirror-Risk Tag:
 - **Mirror-Risk:** Yes / No  
