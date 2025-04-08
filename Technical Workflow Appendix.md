@@ -1,4 +1,4 @@
-# Technical Companion Document – Persona Engine v3
+# Structured-Persona Instantiation Engine 3 (Persona Engine 3) - Technical Companion Document
 **Author:** System-bound in collaboration with User  
 **Purpose:** To accompany and support the Research Pre-Registration Proposal  
 **Scope:** Documents, workflow, philosophical grounding, and ethics review trace
