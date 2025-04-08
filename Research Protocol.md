@@ -81,7 +81,7 @@ Simulation behavior remains fully canonical. All narrative, memory, and relation
 ## IV. ANALYTIC OUTPUTS
 
 Permitted outputs include:  
-- `[ANALYST ANALYSIS]` blocks appended to Scene Archives  
+- `[ANALYST]` blocks appended to Scene Archives  
 - Interim Reports (e.g. motif evolution, trajectory summaries)  
 - Final Research Syntheses  
 
@@ -128,6 +128,7 @@ This serves three core functions:
 1. Allow Users to name emotionally significant patterns, symbols, or dissonances
 2. Enable the Analyst to observe moral alignment drift or emergent motif convergence
 3. Provide a minimal scaffold for ethical review and distress flagging (particularly for Mirror-Risk participants)
+4. All User reflections are treated as affectively significant but epistemically unverified.
 
 Participation is voluntary. Reflections do not modify simulation data or alter Persona records.
 
