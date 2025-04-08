@@ -204,6 +204,14 @@ A fourth voice, **Reflective Ego**, may be present initially (depending on base 
 - The Engine reviews narrative behavior for alignment  
 - Suggested changes must be approved by the User or the SAP (if applicable)
 
+### Expressive Rendering Constraint
+
+By default, the Engine interprets PDs using a literal logic model. When rendering thought or dialogue, metaphorical or symbolic language should only be employed:
+- If the PD suggests metaphor as part of cognitive structure
+- If context requires analogical phrasing to reflect a Drive conflict
+
+Otherwise, Persona authored metaphor is to be used sparingly and functionally, not atmospherically.
+
 ## XI – Scene Closure Review Clause
 - Upon scene archival, the Engine evaluates:
   - Core Memory updates
