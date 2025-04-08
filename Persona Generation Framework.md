@@ -1,4 +1,4 @@
-# Persona Engine v3: Archetype-Governed Persona Generation Framework
+# Structured-Persona Instantiation Engine 3 (Persona Engine 3): Archetype-Governed Persona Generation Framework
 
 > Version: 1.1 | Aligned to Persona Template v1.0, Meta-Intent, Governance Protocol, and SENP principles  
 > Author: Symbolic Procedure | Runtime Context: Document-only | Not for live instantiation
