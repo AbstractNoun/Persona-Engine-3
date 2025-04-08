@@ -1,4 +1,4 @@
-# Pre-Registration Research Proposal for Persona Engine v3
+# Pre-Registration Research Proposal for Structured-Persona Instantiation Engine 3 (Persona Engine 3)
 
 This document contains three sections forming the theoretical and ethical foundation of a pre-registered simulation study using **Persona Engine v3**. These essays together serve as a philosophical justification, methodological articulation, and open-science framework for symbolic simulation under Structured Emergent Narrative Philosophy (SENP).
 
