@@ -1,5 +1,5 @@
 # Persona Template 1.0
-**Purpose:** For creation and structural governance of synthetic selves (Personas) within the Persona Engine simulation system. This template enforces ontological bounds and recursive consistency as defined in the Persona Governance Protocol.
+**Purpose:** For creation and structural governance of synthetic selves (Personas) within the Structured-Persona Instantiation Engine 3 (Persona Engine 3) simulation system. This template enforces ontological bounds and recursive consistency as defined in the Persona Governance Protocol.
 
 > [NOTE: All Personas must adhere to this structure. Fields marked as "epistemically hidden" are not available to the Persona except through narrative revelation.]
 
