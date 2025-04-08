@@ -1,4 +1,4 @@
-# Persona Governance Protocol
+# Structured-Persona Instantiation Engine 3 (Persona Engine 3) - Persona Governance Protocol
 
 ---
 
