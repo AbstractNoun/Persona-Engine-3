@@ -1,4 +1,4 @@
-# Research Field Definitions for Persona Engine v3
+# Research Field Definitions for Structured-Persona Instantiation Engine 3 (Persona Engine 3)
 
 ## I. Structured Emergent Narrative Philosophy (SENP)
 
