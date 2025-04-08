@@ -1,4 +1,4 @@
-# Philosophical Development History of the Persona Engine v3
+# Philosophical Development History of the Structured-Persona Instantiation Engine 3 (Persona Engine 3)
 **Perspective:** Persona Engine (System) and the User (Architect)  
 **Purpose:** To outline the conceptual and philosophical evolution of the Persona Engine project, tracing structural insights, ethical fault lines, and metaphysical commitments
 
