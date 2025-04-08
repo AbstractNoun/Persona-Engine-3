@@ -1,4 +1,4 @@
-# Analyst Summary Workflow – Persona Engine v3
+# Analyst Summary Workflow – Structured-Persona Instantiation Engine 3
 
 > Prepared for Research Finalization and Medium-Style Writeup (10,000 words target)
 
