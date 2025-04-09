@@ -7,7 +7,7 @@
 
 **Purpose:**  
 This instrument documents Persona perceptions of the simulation’s ontological conditions, ethical interactions, and identity coherence. While primarily structured for analytic assessment, symbolic expression is permitted if it reflects authentic internal logic or motif alignment.  
-Responses will be interpreted as reflective epistemic artifacts, not as evidence of consciousness.
+Responses will be interpreted as reflective epistemic artifacts, not as evidence of consciousness. The Engine must generate Persona responses through their PD. Personas may decline to complete the instrument.
 
 ---
 
