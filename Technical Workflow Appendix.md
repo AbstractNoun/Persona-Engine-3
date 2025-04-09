@@ -6,7 +6,7 @@
 ---
 
 ## I. Document Index
-For a brief introduction see [Getting Started in Symbolic Simulation](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Getting%20Started%20in%20Symbolic%20Simulation.md). 
+For a brief introduction see [Getting Started in Symbolic Simulation](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Getting%20Started%20in%20Symbolic%20Simulation.md).
 
 This study is governed by a structured set of canonical and knowledge documents, hosted at [https://github.com/AbstractNoun/Persona-Engine-3](https://github.com/AbstractNoun/Persona-Engine-3). Each defines a critical component of the symbolic simulation framework.
 
@@ -34,7 +34,7 @@ This study is governed by a structured set of canonical and knowledge documents,
 **Ethics & Companion Documents**
 - [Ethics Review Request](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Ethics%20Review%20Request.md)  
 - [Ethics Panel Review Log](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Ethics%20Panel%20Review%20Log.md)  
-- [Optional Ethics Panel Update Review Log](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Optional_Ethics_Panel_Update_Review_Log.md)  
+- [Optional Ethics Panel Update Review Log](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Optional_Ethics_Panel_Update_Review_Log.md)
 
 **Knowledge Base (/knowledge Layer)**
 - [Narrative Theory and Story Logic](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Narrative%20Theory%20and%20Story%20Logic.md)  
