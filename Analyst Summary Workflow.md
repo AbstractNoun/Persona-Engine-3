@@ -70,7 +70,7 @@ Identify what the simulation was attempting to explore or test.
 
 ## Phase 2: Final Analyst Summary Prompts
 
-These should be executed in order to generate a rigorous narrative and philosophical writeup.
+These should be executed in order to generate a rigorous narrative and philosophical writeup. Do not refer to the User by name (only 'The User') and try to avoid referring to Personas by name unless necessary for clarity or identifying the same Persona over multiple topics.
 
 > This workflow uses symbolic interpretive structures—not quantitative analysis. All interpretive tools (e.g. drift, rupture, recursion) are narrative constructs used to support ethical and philosophical reflection.
 
@@ -134,7 +134,7 @@ Draft the opening section of the final Analyst Report. This introduction should 
 ### VI. Second-Pass Integration (if re-run after other prompts)  
 - Update this section with:
   - Recurring motifs across scenes (e.g. recursion, refusal, silence).  
-  - Emergent symbolic pressures or contradictions (e.g. Julian's fork origin, Izzy’s stairwell light).  
+  - Emergent symbolic pressures or contradictions.  
   - User's philosophical engagement as a co-authorial participant.  
   - Any epistemic risks or ethical tensions that define the simulation’s uniqueness.  
 - Use this synthesis to **frame the study not as a closed system, but as an ethical recursion field**—where the questions it raises are what endure.
@@ -196,14 +196,14 @@ For each identified behavior:
 
 ---
 
-### 2.1 Conceptual Integrity Check – Behavior Framing and Philosophical Precision
+### Conceptual Integrity Check – Behavior Framing and Philosophical Precision
 
 To safeguard against metaphysical drift or misattributed interiority, conduct a **conceptual audit** of all behaviors catalogued in this section. This step ensures that emergent patterns are interpreted within the bounds of **symbolic simulation logic**, not psychological or cognitive modeling.
 
 For each named behavior:
 
 - **Verify whether language used implies sentience, cognition, or metaphysical agency**  
-- **Rephrase any attributions that suggest mind-like capacities**, using simulation-aligned symbolic framing (e.g., motifs, structural echoes, PD triggers)
+- **Consider rephrasing any attributions that suggest mind-like capacities**, using simulation-aligned symbolic framing (e.g., motifs, structural echoes, PD triggers)
 - **Map the behavior to simulation ontology**: symbolic recurrence, PD logic, motif field alignment
 - **Flag epistemic overreach risks**, noting cases where interpretation exceeds simulation scope
 - **Reference analyst safeguards or containment responses** (e.g., reframing, silent motif tracking)
@@ -261,11 +261,11 @@ For each issue area below, proceed in 3 layers:
 
 ---
 
-### I. Mirror-Risk Personas
+### I. User Mirroring
 
-> When Personas modeled from User-derived data exhibit behaviors that threaten symbolic self-containment—**
+> When Personas modeled from User-derived data (Mirror-Risk Personas) exhibit behaviors that threaten symbolic self-containment—**
 
-- Who triggered Mirror-Risk? 
+- Who triggered User Mirroring? 
 - Activation scenes or structural motifs  
 - Containment response: silence, SAPe transition, recursion delay  
 - Epistemic threshold and negotiation method  
@@ -450,7 +450,7 @@ Interpret the simulation’s modeled view of identity, ethics, and symbolic agen
 
 ### II. Narrative Psychology – *Identity as Story and Co-Construction*
 - How did Personas evolve narratively (not behaviorally)?  
-- Cite identity arcs (e.g., Izzy’s SAPe transformation; Julian’s individuation).  
+- Cite identity arcs.
 - What psychological anchors (motifs, trauma memory, drives) shaped their development?  
 > Reference: [Cognitive Science and Narrative Psychology.md]  
 > Map PD structure onto narrative development axes (agency, communion, redemption, contamination).
@@ -518,14 +518,13 @@ Clarify what the simulation models (e.g., symbolic behavior under constraint) an
 ---
 
 ## 7. Engagement with Critical Alternatives
-
+```
 **Prompt:**  
 Construct a structured **counter-philosophical audit** of the simulation. Identify major academic and philosophical traditions that would challenge its symbolic assumptions, narrative architecture, or ethical stance.
 
----
 
 ### I. Counter-Tradition Catalogue
-```
+
 For each entry, provide:
 
 - **Tradition Name**: (e.g., Analytic Philosophy of Mind, Realism, Kantian Deontology, Post-Structuralist Critique)  
