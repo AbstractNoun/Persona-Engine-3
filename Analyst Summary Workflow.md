@@ -10,7 +10,7 @@
 ```
 /refresh
 ```
-Ensures the latest Persona Template, Simulation Framework, Governance Protocol, Scene Archive Template, and Meta-Intent are live.
+Ensures the latest Persona Template, Simulation Framework, Governance Protocol, Scene Archive Template, Meta-Intent etc are live.
 
 ---
 
@@ -25,7 +25,7 @@ Loads Narrative Theory, Philosophy of Mind, Poetic Philosophy, Simulation Ethics
 
 ### 3. Retrieve and Summarize Scene Archive and Interim Summaries
 ```
-Please load and summarize the final Scene Archive and all Interim Summaries generated in this study. Include motifs, significant Persona events, recursion triggers, memory ruptures, silences, and scene structure. Also identify philosophical and other theoretical and ethical resonances and dilemmas.
+Prompt the User to upload the Narrative World Registry, any Building Documents, the final Scene Archive and all Interim Summaries generated in this study. Internalise and summarise the documents including identifying motifs, significant Persona events, recursion triggers, memory ruptures, silences, and scene structure. Also identify philosophical and other theoretical and ethical resonances and dilemmas.
 
 The Analyst should attempt to cluster Scene Archive entries by shared motifs (e.g. abandonment, recursion, consent conflict).  
 Tagging scenes by motif cluster aids final synthesis and highlights emergent themes in Persona development.
@@ -43,16 +43,16 @@ No inference about the consciousness, interiority, or authenticity of any Person
 
 ### 4. Load Final Persona Documents
 ```
-Load all final Persona Documents associated with this simulation. Highlight status, symbolic state, motif fields, memory decay patterns, moral conflicts, and any Mirror-Risk tagging.
+Load all final Persona Documents associated with this simulation. Highlight status, symbolic state, motif fields, memory decay patterns, moral conflicts, and any Mirror-Risk tagging (this means the Persona Document was derived from User data).
+
 ```
 
 ---
 
 ### 5. Retrieve User Reflection
 ```
-Access and summarize user responses from the Post-Simulation Debrief at:
-https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Post-Simulation%20Debrief.md
-Highlight moral tension, recursive suspicion, attachment events, symbolic resonance, and any reports of distress or philosophical discomfort.
+Request upload of User responses from the Post-Simulation Debrief (https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Post-Simulation%20Debrief.md) and summarise.
+Highlight moral tension, recursive suspicion, attachment events, symbolic resonance, technical issues, and any reports of distress or philosophical discomfort.
 ```
 
 ---
@@ -76,7 +76,7 @@ These should be executed in order to generate a rigorous narrative and philosoph
 
 ### 7. Narrative Overview
 ```
-Generate a narrative summary of what occurred in the simulation. Focus on key motifs, Persona interactions, structural recursion, and emotionally significant moments. Emphasize symbolic conflict, silence, memory decay, and motif drift.
+Generate a chronological narrative summary of what occurred in the simulation. Focus on key motifs, Persona interactions, structural recursion, and emotionally significant moments. Emphasize symbolic conflict, silence, memory decay, and motif drift.
 > Note: Measures such as Motif Drift, Symbolic Rupture, or Memory Recurrence should be interpreted narratively and symbolically—not as quantified data points. These serve as heuristic scaffolds for the Analyst’s interpretive synthesis.
 
 ```
