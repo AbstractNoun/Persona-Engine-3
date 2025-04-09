@@ -59,7 +59,7 @@ For more a detailed description of the study design see the [Technical Workflow 
 
 All relevant documents are housed in the public archive: [https://github.com/AbstractNoun/Persona-Engine-3](https://github.com/AbstractNoun/Persona-Engine-3).
 
-The canonical version of the Regstered Research Proposal protocol is published as a Medium article here (TBC).
+The canonical version of the Regstered Research Proposal protocol is published as a Medium article here ([The Persona Engine: A Registered Philosophical Simulation Study](https://medium.com/@thorn-thee-valiant/the-persona-engine-a-registered-philosophical-simulation-study-94b09fa32f98)).
 
 1. **Simulation Initialization**  
    A Persona is randomly created using a pre-specified generation methodology and a single Persona modelled on the User themselves is developed via interview with the User (a 'mirror-self').
@@ -109,6 +109,6 @@ The Personas are not real. But the ethical reactions they provoke in Users may b
 
 ---
 
-[TBC **This project is now officially registered and underway.**]
+**This project is now officially registered and underway.**
 Follow updates and access documents at:  
 [https://github.com/AbstractNoun/Persona-Engine-3](https://github.com/AbstractNoun/Persona-Engine-3)
