@@ -17,7 +17,7 @@ Brief introduction: [Getting Started in Symbolic Simulation](https://github.com/
 
 **Research-Specific Protocols**
 - [Research Protocol](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Research%20Protocol.md)
-- [Canonical Research Proposal Registration](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Research%20Proposal%20Registration.md)
+- [Canonical Research Proposal Registration](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Research%20Proposal%20Registration.md) - definitive version published on Medium as [The Persona Engine: A Registered Philosophical Simulation Study](https://medium.com/@thorn-thee-valiant/the-persona-engine-a-registered-philosophical-simulation-study-94b09fa32f98)
 - [Persona Interview](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Persona%20Interview.md)  
 - [Persona Generation Framework](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Persona%20Generation%20Framework.md)  
 - [Post-Simulation Debrief](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Post-Simulation%20Debrief.md)  
@@ -44,3 +44,9 @@ Brief introduction: [Getting Started in Symbolic Simulation](https://github.com/
 - [Poetic and Literary Philosophy](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Literary%20and%20Poetic%20Philosophy.md)
 - [Simulation Ethics and AI Moral Status](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Simulation%20Ethics%20and%20AI%20Moral%20Status.md) 
 
+---
+
+## II. Post-Simulation Reports
+ - [Simulation Narrative Summary](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Simulation%20Narrative%20Summary.md)
+ - [Final Simulation Report](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Final%20Simulation%20Report.md)
+ - User Reflections: TBC
