@@ -55,4 +55,5 @@ Brief introduction: [Getting Started in Symbolic Simulation](https://github.com/
 
 **Artefacts and Example Documents**
 - [Saskia Levine Persona Document](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Saskia%20Levine.md) - final PD of the Persona Saskia Levine (you can also see her [PD at creation](https://github.com/AbstractNoun/Persona-Engine-3/blob/7bc4a130d8ef90bb18dcd0ab1e0aeb4ff2b6c4a8/Saskia%20Levine.md))
-- [Scene Archive 6](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Scene%20Archive%206.md) - Scene Archive number 6 out of 7 total covering scenes 62 to 67
+- [Scene Archive 6](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Scene%20Archive%206.md) - Scene Archive number 6 out of 7 total covering scenes 62 to 67 - Engine generated archive of events created following each scene with an Analyst report appended (and occasionally notes from AmandaGPT external ChatGPT assistant and from the User)
+- [Interim Research Summary 3](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Interim%20Research%20Summary%203.md) - Interim Research Summary number 3 out of 15 covering scenes 8 to 12 compiled periodically by the Analyst at User request following instructions in the [Research Protocol](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Research%20Protocol.md)
