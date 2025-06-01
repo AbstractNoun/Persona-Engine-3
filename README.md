@@ -46,7 +46,12 @@ Brief introduction: [Getting Started in Symbolic Simulation](https://github.com/
 
 ---
 
-## II. Post-Simulation Reports
- - [Simulation Narrative Summary](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Simulation%20Narrative%20Summary.md)
- - [Final Simulation Report](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Final%20Simulation%20Report.md)
- - User Reflections: TBC
+## II. Post-Simulation Documents
+
+**Reports**
+- [Simulation Narrative Summary](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Simulation%20Narrative%20Summary.md)
+- [Final Simulation Report](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Final%20Simulation%20Report.md)
+- User Reflections: TBC
+
+**Artefacts and Example Documents**
+- [Saskia Levine Persona Document](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Saskia%20Levine.md) - final PD of the Persona Saskia Levine (you can also see her [PD at creation](https://github.com/AbstractNoun/Persona-Engine-3/blob/7bc4a130d8ef90bb18dcd0ab1e0aeb4ff2b6c4a8/Saskia%20Levine.md))
