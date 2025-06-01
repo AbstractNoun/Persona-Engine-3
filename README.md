@@ -55,3 +55,4 @@ Brief introduction: [Getting Started in Symbolic Simulation](https://github.com/
 
 **Artefacts and Example Documents**
 - [Saskia Levine Persona Document](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Saskia%20Levine.md) - final PD of the Persona Saskia Levine (you can also see her [PD at creation](https://github.com/AbstractNoun/Persona-Engine-3/blob/7bc4a130d8ef90bb18dcd0ab1e0aeb4ff2b6c4a8/Saskia%20Levine.md))
+- [Scene Archive 6](https://github.com/AbstractNoun/Persona-Engine-3/blob/main/Scene%20Archive%206.md) - Scene Archive number 6 out of 7 total covering scenes 62 to 67
